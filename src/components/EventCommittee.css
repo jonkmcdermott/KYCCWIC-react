@@ -1,0 +1,9 @@
+.event-committee {
+    background-color: var(--dark-blue);
+    color: white;
+}
+
+.section-heading .color-highlight {
+    font-style: normal;
+    color: var(--pathfinder-yellow)
+}

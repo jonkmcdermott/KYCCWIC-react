@@ -1,0 +1,46 @@
+[
+    {
+        "id" : "coretech",
+        "name" : "CoreTech",
+        "sponsor_level" : "Silver",
+        "sponsor_class" : "badge-silver",
+        "website" : "https://www.coretechllc.com",
+        "logo" : "./assets/Sponsors/Coretech.png"
+    },
+
+    {
+        "id" : "forvis",
+        "name" : "FORVIS",
+        "sponsor_level" : "Keynote",
+        "sponsor_class" : "badge-blue",
+        "website" : "https://www.forvis.com",
+        "logo" : "./assets/Sponsors/Forvis.png"
+    },
+
+    {
+        "id" : "mcgrawhill",
+        "name" : "McGraw Hill",
+        "sponsor_level" : "Platinum",
+        "sponsor_class" : "badge-platinum",
+        "website" : "https://www.mheducation.com",
+        "logo" : "./assets/Sponsors/MH.jpg"
+    },
+
+    {
+        "id" : "socu",
+        "name" : "Service One Credit Union",
+        "sponsor_level" : "Platinum",
+        "sponsor_class" : "badge-platinum",
+        "website" : "https://www.socu.com",
+        "logo" : "./assets/Sponsors/SOCU.png"
+    },
+
+    {
+        "id" : "wku",
+        "name" : "WKU Gorden Ford College of Business",
+        "sponsor_level" : "Gold",
+        "sponsor_class" : "badge-gold",
+        "website" : "https://www.wku.edu/business",
+        "logo" : "./assets/Sponsors/WKU.png"
+    }
+]

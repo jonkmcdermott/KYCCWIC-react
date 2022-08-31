@@ -1,0 +1,160 @@
+.welcome-container {
+  background-color: hsl(214, 97%, 13%, 100%);
+  /* background-image: url(./assets/welcome-background.jpg); */
+  background-image: url(./assets/SplashImages/marge-laptop-sunny.jpg);
+  height: 100vh;
+  max-height: 100vh;
+  width: 100vw;
+  max-width: 100vw;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.welcome-grid {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  max-height: 100vh;
+  width: 100vw;
+  max-width: 100vw;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 10vh;
+  /* background-image: url(./assets/welcome-background.jpg); */
+  background-image: url(./assets/SplashImages/marge-laptop-sunny.jpg);
+
+  animation: backgroundGradientAnimation 2.5s ease both;
+}
+
+@keyframes backgroundGradientAnimation {
+  0% {
+    background-image: radial-gradient(circle, hsla(0, 0%, 0%, 0) 0%, hsla(0, 0%, 0%, 0.3) 85%, hsla(0, 0%, 0%, 0.5) 90%, hsla(0, 0%, 0%, 0.6) 95%, hsla(0, 0%, 0%, 0.7) 100%);
+
+  }
+
+  100% {
+    background-image: radial-gradient(circle, hsla(0, 0%, 0%, 0.2) 0%, hsla(0, 0%, 0%, 0.3) 60%, hsla(0, 0%, 0%, 0.5) 70%, hsla(0, 0%, 0%, 0.6) 80%, hsla(0, 0%, 0%, 0.7) 90%);
+  }
+}
+
+.welcome-message-box {
+  margin-top: 10%;
+  font-size: 1rem;
+  border-radius: 1.5rem;
+  background-color: hsl(214, 97%, 13%, 80%);
+  width: max(80vw, 15rem);
+  max-height: 90vh;
+  color: hsla(0, 0%, 100%, 100%);
+  box-shadow:
+    1.7px 1px 1.8px rgba(0, 0, 0, 0.034),
+    4.1px 2.4px 4.6px rgba(0, 0, 0, 0.049),
+    8.2px 4.9px 8.9px rgba(0, 0, 0, 0.061),
+    17px 10px 16.5px rgba(0, 0, 0, 0.07),
+    36px 21.3px 31.2px rgba(0, 0, 0, 0.08),
+    53.7px 31.7px 51.5px rgba(0, 0, 0, 0.089),
+    67.1px 39.7px 68.5px rgba(0, 0, 0, 0.101),
+    78.3px 46.2px 81.8px rgba(0, 0, 0, 0.116),
+    88px 52px 93px rgba(0, 0, 0, 0.15);
+  animation: welcomeAnimation 1s ease-in backwards;
+  transition:
+    background-color 200ms ease,
+    border-radius 200ms ease;
+}
+
+.welcome-message-box:hover {
+  background-color: hsl(214, 97%, 13%, 65%);
+  border-radius: 2.5rem;
+}
+
+@keyframes welcomeAnimation {
+  0% { 
+    font-size: 0rem;
+    border-radius: 0rem;
+    background-color: hsl(214, 97%, 13%, 100%);
+    width: 0vw;
+    max-height: max(10vh, 10rem);
+    color: hsla(0, 0%, 100%, 0);
+  }
+
+  40% {
+    width: max(80vw, 15rem);
+    max-height: max(10vh, 10rem);
+    color: hsla(0, 0%, 100%, 0);
+  }
+
+  80% {
+    font-size: 0rem;
+    width: max(80vw, 15rem);
+    max-height: 90vh;
+    color: hsla(0, 0%, 100%, 0%);
+  }
+
+  100% {
+    font-size: 1rem;
+    border-radius: 1.5rem;
+    background-color: hsl(214, 97%, 13%, 80%);
+    width: max(80vw, 15rem);
+    max-height: 90vh;
+    color: hsla(0, 0%, 100%, 100%);
+  }
+
+}
+
+.welcome-message {
+  padding: max(3vh, .5rem) max(5vw, 1.5rem);
+  text-align: center;
+}
+
+.welcome-title {
+  text-shadow:.12rem .12rem .5rem rgba(0, 0, 0, 0.85);
+  animation: titleShadowAnimation 1.5s ease both;
+}
+
+@keyframes titleShadowAnimation {
+  0% {
+    text-shadow:.12rem .12rem .5rem rgba(0, 0, 0, 0);
+  }
+
+  66% {
+    text-shadow:.12rem .12rem .5rem rgba(0, 0, 0, 0);
+  }
+
+  100% {
+    text-shadow:.12rem .12rem .5rem rgba(0, 0, 0, 0.85);
+  }
+}
+
+.welcome-info {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.welcome-scroll-prompt {
+  text-decoration: none;
+  color: hsl(0, 0%, 100%, 0.85);
+  background-color: hsl(0, 0%, 100%, 0);
+  font-weight: 400;
+  text-align: center;
+  border: .15rem solid;
+  border-radius: .25rem;
+  padding: .25rem 2.5rem;
+  transition: color 200ms ease,
+    font-weight 200ms ease,
+    border-radius 200ms ease,
+    background-color 200ms ease;
+}
+
+.welcome-scroll-prompt:hover, .welcome-scroll-prompt:focus {
+  color: hsla(0, 0%, 100%, 1);
+  background-color: hsl(0, 0%, 100%, .2);
+  font-weight: 600;
+  border-radius: .75rem;
+}
+
+@media screen and (max-width: 940px) {
+  .welcome-container, .welcome-grid {
+    background-image: url(./assets/SplashImages/welcome-background-smaller.jpg);
+  }
+}

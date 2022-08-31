@@ -1,0 +1,129 @@
+[
+    {
+        "id" : "carmen_gaskins",
+        "image_exists" : "true",
+        "image" : "./assets/CommitteeMembers/carmen_gaskins.jpg",
+        "title" : "CO-CHAIR: Carmen Gaskins, Professor",
+        "bio" : "Carmen Gaskins is a full-time Professor teaching computer courses at Southcentral Kentucky Community and Technical College in Bowling Green, Kentucky, since 1997. Prior to teaching at SKYCTC, I worked in Office Management and Human Resources for Western Kentucky University, ProSTAFF Employment Agency, and YMCA. I attended Western Kentucky University where I received an Associate in Arts, Bachelor in Science in Business Education, and Master of Arts in Business Education. Throughout the years, I have also attended Morehead State University, Indiana University, and Western Kentucky University completing Computer Information Systems, Library Media Services, Leadership, and Communication graduate courses. I am a member of Associate for Computing Machinery (ACM), Association for Talent Development (ASTD) and Career and Technical Education (CTE) professional organizations. I hold Microsoft Office Specialist (MOS) Word, PowerPoint, Excel, and Access certifications. I was born and raised in Rockport, Indiana. I am married to Randy who works at BG Metalforming. We have two children, Griffin (26) and Ragan (20). Our family loves all sports, playing board games and cards, and watching movies."
+    },
+
+    {
+        "id" : "renee_white",
+        "image_exists" : "true",
+        "image" : "./assets/CommitteeMembers/renee_white.jpg",
+        "title" : "CO-CHAIR: Dr. Renee White, Professor",
+        "bio" : "Dr. White has been teaching at SKYCTC for 8 years. She has previous experience in health education and health administration. She is a Certified Professional Coder, Certified Physician Practice Manager, and a Fellow through the American Academy of Professional Coders."
+    },
+
+    {
+        "id" : "ellie_adams",
+        "image_exists" : "false",
+        "image" : "",
+        "title" : "Ellie Adams, Associate Professor of Communication",
+        "bio" : "I have worked at Southcentral Kentucky Community and Technical College since 2009 as an admissions recruiter, first year experience instructor, and now as a full-time associate professor of communication. Before working at SKYCTC, I spent several years working in marketing and sales. I earned a Bachelor of Arts degree in Communication from the University of Kentucky and a Master of Arts in Communication from Western Kentucky University. I was born and raised in Lexington, KY. I currently live in Bowing Green, KY with my husband and two children. "
+    },
+
+    {
+        "id" : "jessica_adams",
+        "image_exists" : "true",
+        "image" : "./assets/CommitteeMembers/jessica_adams.jpg",
+        "title" : "Jessica Adams, Associate Professor",
+        "bio" : "Jessica Adams is a full-time Associate Professor teaching Communication courses at Southcentral Kentucky Community and Technical College in Bowling Green, KY since 2011. Prior to teaching at SKYCTC, I worked at Zeager Hardwood as an Regional Manager selling playground surfacing, a manager for Wal-Mart, and lastly, and on the Event Marketing team for Newell Rubbermaid. I attended Murray State University where I received a Bachelor of Science in Electronic Journalism and a Master of Science in Organizational Communication. I was born and raised in Greenville KY. I am married to Chad who is a financial advisor for Edward Jones with his office in Franklin KY. We have two children, Sydney (17) and Wyatt (10) who keep our family active. Sydney enjoys singing with musicals and playing volleyball, while Wyatt loves the game of basketball."
+    },
+
+    {
+        "id" : "tiffany_deaton",
+        "image_exists" : "true",
+        "image" : "./assets/CommitteeMembers/tiffany_deaton.jpg",
+        "title" : "Tiffany Deaton, Administrative Assistant",
+        "bio" : "While I received my formal education at Western Kentucky University in Bowling Green, Kentucky, graduating with a Bachelor of Arts in Advertising and minor in Marketing, education has always been my passion. I’m the wife of a school principal and the daughter of a retired educator. What can I say – it’s in my DNA. I was fortunate to work in the local and private school systems for a couple of years, and for the last decade leading up to 2020, I served at the Education Director at the Southern Kentucky Performing Arts Center. Through that role, I developed an extensive skill set which included building and fostering relationships in local/regional schools with educators and administrators. The value of cultivating positive and vital relationships are keys to organizational success. During my time as Director, I developed, organized and executed multiple education-centered events and marketing collateral at the arts center - involving a handful of students to welcoming thousands in the facility. My strengths include thinking through the tiniest of details while also keeping my arms around the big picture. This has served me well in my new role at Southcentral Kentucky Community and Technical College as an Administrative Assistant in the Business and Information Technologies Division. The COVID pandemic allowed me to pivot in my career and continue to focus on what I am passionate about - education. Student success is my number one priority in this role, and I work hard every day to provide that level of excellence to all our student population as well as our faculty and staff. Most recently, I was awarded the prestigious Skyctc Support Staff Award of Excellence for going above and beyond in my job. I take great pride in what I do for the college and enjoy helping others succeed. "
+    },
+
+    {
+        "id" : "julie_dent",
+        "image_exists" : "true",
+        "image" : "./assets/CommitteeMembers/julie_dent.jpg",
+        "title" : "Julie Dent, Assistant Professor",
+        "bio" : "My name is Julie Dent, and this is my fifth year of teaching at SKYCTC. I have 26 years of experience in association management and higher education. Most recently, I worked at WKU for 17 years and have 12 years of management experience. I loved being a manager because I enjoyed working together as a team and helping staff members reach their full potential. I graduated from the University of Kentucky with a B.A. in Communication and Master of Business Administration, and I am a huge UK fan. I am also an avid Atlanta Braves fan! I have 21 year-old twins, Kristin and Ryan, who are seniors at Murray State University. Since Kristin runs cross country and track for MSU and Ryan runs cross country, I am also a Murray State fan! We are a family of cat lovers and have two cats (Happy Kitty and Mr. Smokey). I reside in Elkton, Kentucky and attend Petrie Memorial United Methodist Church."
+    },
+
+    {
+        "id" : "april_harris",
+        "image_exists" : "true",
+        "image" : "./assets/CommitteeMembers/april_harris.jpg",
+        "title" : "April Harris, Assistant Professor",
+        "bio" : "I am a full time Assistant Professor at Southcentral Kentucky Community and Technical College in the Business and Information Technologies Division. I have bachelor’s degrees in psychology and in Business Education from Western Kentucky University and a master’s in business administration from W.K.U. I am a member of the Southern Kentucky Society of Human Resource Management, serve on the Kentucky Community and Technical College System Business Administration Curriculum Committee, on The United Way of Southern Kentucky Allocations Committee, and as President-Elect for the Kentucky Business Society. I have been married to my college sweetheart for almost 26 years. We have three sons, who are all in college, and two dogs. My favorite ways to spend my down time is playing tennis, playing pickle ball, running, and traveling."
+    },
+
+    {
+        "id" : "selena_house",
+        "image_exists" : "true",
+        "image" : "./assets/CommitteeMembers/selena_house.jpg",
+        "title" : "Selena House",
+        "bio" : "Former student at Southcentral Kentucky Community and Technical College, graduated May 2022 with an Associate of Science degree in Medical Information Technology with an Office Management Track. While attending college, was actively involved in Christian Campus Ministry, PBL (former Pres. & Vice Pres), PTK (former Treas.), SGA, Biodiversity, and a founding member of Diversity through Dining. Also served as a student representative on the MIT Advisory Committee from 10-20 to 5-22."
+    },
+
+    {
+        "id" : "tammy_inscoe",
+        "image_exists" : "true",
+        "image" : "./assets/CommitteeMembers/tammy_inscoe.jpg",
+        "title" : "Tammy Inscoe, Chef, Assistant Professor",
+        "bio" : "Tammy Inscoe is a full-time Assistant Professor and Chef at Southcentral Kentucky Community and Technical College in Bowling Green, Kentucky. Tammy has been teaching full time in the Culinary Arts program since 2018 after being an adjunct instructor for the program. Tammy graduated from SKYCTC with an Associate in Applied Science in the Culinary Arts program in 2009 and began her career as a Chef at Western Kentucky University with Aramark Food Service. Throughout the years Tammy worked her way up from Pastry Chef to Assistant Manager to Financial Specialist. Tammy is a member of the National Restaurant Association, American Culinary Federation, Center for the Advancement of Food Service Education, and Bourbon Country Chefs. Tammy likes traveling, deep sea fishing, and bear hunting. Tammy also works on the farm she and her husband Jeff own and loves driving the tractor in the hay fields in the Summer. Tammy also loves spending time with their two daughters and six grandchildren. "
+    },
+
+    {
+        "id" : "amy_norrod",
+        "image_exists" : "true",
+        "image" : "./assets/CommitteeMembers/amy_norrod.jpg",
+        "title" : "Amy Norrod, Program Coordinator, Associate Professor",
+        "bio" : "Amy Norrod is an Associate Professor and Program Coordinator in Medical Information Technology at SKYCTC. She also serves as a state Board of Directors member and Treasurer for KHIMA. She holds degrees in Health Administration, Business Management, and Healthcare Information Management with 16 years of experience working within the medical field. She also has 11½ years of higher education experience both in the classroom and online format. Her hobbies include exercise, gardening, mission trips, and advocating for children within the foster system as a CASA volunteer."
+    },
+
+    {
+        "id" : "kim_otto",
+        "image_exists" : "true",
+        "image" : "./assets/CommitteeMembers/kim_otto.jpg",
+        "title" : "Kim Otto, Professor",
+        "bio" : "Kim Otto is a Professor at Southcentral Kentucky Community and Technical College in Bowling Green, KY and has been teaching for 17 years. She attended Western Kentucky University where she earned her Bachelor of Science in Business Education and Master of Arts in Education. She has also completed several graduate courses in Computer Information Systems, Library Media Services, and Communication. She holds various leadership roles with her current position at SKYCTC, such as program coordinator of the Business Administration program, adviser for the student organization, Phi Beta Lambda, and the SKYCTC representative on the KCTCS Curriculum Committee. She also holds Microsoft Office Specialist (MOS) Word, PowerPoint, and Excel certification. Kim is married to Kurt (26 years) who has worked in sales management for over 20 years. They have two children, Jackson (21) and Olivia (18), plus four dogs and one cat."
+    },
+
+    {
+        "id" : "anne_perrin",
+        "image_exists" : "false",
+        "image" : "",
+        "title" : "Anne Perrin",
+        "bio" : "Anne Perrin is currently a Medical Information Technology student at Southcentral Community & Technical College. She is specializing in Medical Coding and is excited about the dynamic field of Health Information. Additionally, she has B.A.s in English (2002) and History (2007) from Western Kentucky University and has done field work in behavioral health, specializing in autism, as a Registered Behavior Technician. Ms. Perrin's scholarly work is published in the Journal of Popular Culture, The Kentucky African American Encyclopedia, and Western Folklore."
+    },
+
+    {
+        "id" : "evelyn_thrasher",
+        "image_exists" : "true",
+        "image" : "./assets/CommitteeMembers/evelyn_thrasher.jpg",
+        "title" : "Dr. Evelyn Thrasher, Senior Associate Dean",
+        "bio" : "Evelyn Thrasher, Ph.D., MBA, is Senior Associate Dean and Professor of Analytics and Information Systems in the Gordon Ford College of Business at Western Kentucky University. Dr. Thrasher earned a Bachelor of Science in Mathematics from East Tennessee State University in 1989, a Master of Business Administration from Auburn University in 2003, and a PhD in Management of Information Technology and Innovation from Auburn University in 2006. Dr. Thrasher joined the faculty of WKU in August 2008 and teaches graduate and undergraduate courses in data analytics and computer information systems. Dr. Thrasher’s research focuses on the strategic use of information systems in healthcare, education, and nonprofit organizations. She has published in numerous information systems journals and presented her work at global information systems conferences. In addition to her role at WKU, Dr. Thrasher serves on the HOTEL INC Board of Directors and assists with data analysis to support the organization’s decision-making and strategic plan. Prior to joining academia, Dr. Thrasher worked as an advanced systems analyst for Eastman Chemical Company in Kingsport, TN, from 1989-2000."
+    },
+
+    {
+        "id" : "coni_waggoner",
+        "image_exists" : "true",
+        "image" : "./assets/CommitteeMembers/coni_waggoner.jpg",
+        "title" : "Coni Waggoner, Professor, Faculty Lead for Reading",
+        "bio" : "I am the full time Integrated Reading & Writing (IRW) professor at SKYCTC. I graduated from U of L with a BA and a BS in English and Pan-African Studies. My Master's degree is in Post-Secondary and Adult Education from Capella University.\nI have one son named Asa who is a 2020 SKYCTC graduate, and he currently serves as the youngest GOP Chairman of the Republican party in Hart County.\nI enjoy time with family and friends, traveling, movies, cardio drumming, and eating."
+    },
+
+    {
+        "id" : "millie_wells",
+        "image_exists" : "false",
+        "image" : "",
+        "title" : "Millie Wells, Director of Alumni Relations",
+        "bio" : "Millie Wells has been employed with SKYCTC since 2008, beginning as an Administrative Assistant, then Project Coordinator for the President, and now serving our graduates as the Director of Alumni Relations. She has a Master's Degree from Morehead State University in Adult and Higher Education, with a concentration in Community College. She is a member of the KCTCS Alumni Engagement Group, KCTCS Sponsored Projects Peer Team and KCTCS Grants Peer Mentor Team, as well as a member of the SKYCTC Community Service and Graduation Committees."
+    },
+
+    {
+        "id" : "fallon_willoughby",
+        "image_exists" : "true",
+        "image" : "./assets/CommitteeMembers/fallon_willoughby.jpg",
+        "title" : "Fallon Willoughby, Assistant Professor",
+        "bio" : "Assistant Professor of First Year Experience at SKYCTC, adjunct professor for Organizational Leadership at WKU, writer of book reviews for Bowling Green Daily News, crafter, and writer/avid reader!"
+    }
+]

@@ -1,0 +1,198 @@
+.sponsors-content {
+    --blue: hsl(207, 61%, 73%);
+    --silver: hsl(54, 7%, 71%);
+    --gold: hsl(42, 100%, 71%);
+    --platinum: hsl(180, 11%, 86%);
+
+    --blue-bg: hsl(207, 61%, 73%, .125);
+    --silver-bg: hsl(54, 7%, 71%, .125);
+    --gold-bg: hsl(42, 100%, 71%, .125);
+    --platinum-bg: hsl(180, 11%, 86%, .125);
+}
+
+
+.parallax-image-container {
+    background-color: grey;
+    background-image: url(./assets/SplashImages/sarah-ap.jpg);
+    background-image: radial-gradient(circle, hsla(0, 0%, 0%, 0.4) 0%, hsla(0, 0%, 0%, 0.5) 60%, hsla(0, 0%, 0%, 0.6) 70%, hsla(0, 0%, 0%, 0.7) 80%, hsla(0, 0%, 0%, 0.8) 90%), url(./assets/SplashImages/sarah-ap.jpg);
+    min-height: 20rem;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sponsors-heading {
+    color: white;
+    text-shadow:.12rem .12rem .5rem rgba(0, 0, 0, 0.85);
+    text-align: center;
+}
+
+.sponsors-text {
+    color: white;
+    text-shadow:.12rem .12rem .5rem rgba(0, 0, 0, 0.85);
+    font-size: 2.25rem;
+
+    /* background-color: hsl(214, 97%, 13%, 20%); */
+    /* padding: .5rem 1.5rem; */
+}
+
+.sponsors-content {
+    display: flex;
+    flex-wrap: wrap;
+    /* flex-flow: wrap; */
+    max-width: 100vw;
+    height: auto;
+    justify-content: space-between;
+    padding: 2rem;
+}
+
+.sponsors-logo-container {
+    width: 15vw;
+    margin: 2rem;
+}
+
+.badge {
+    height: 15vw;
+    width: 15vw;
+    display: grid;
+    place-content: center;
+    border-radius: 50%;
+    box-shadow: var(--gentle-box-shadow);
+}
+
+.badge-black {
+    border: .75vw solid black;
+}
+
+.badge-blue {
+    border: .75vw solid var(--blue);
+}
+
+.badge-silver {
+    border: .75vw solid var(--silver);
+}
+
+.badge-gold {
+    border: .75vw solid var(--gold);
+}
+
+.badge-platinum {
+    border: .75vw solid var(--platinum);
+}
+
+.badge-outline {
+    width: 100%;
+    -webkit-filter: drop-shadow(.25rem .25rem .25rem hsl(0, 0%, 0%, .5));
+    filter: drop-shadow(5px 5px 5px hsl(0, 0%, 0%, .5));
+    z-index: 1;
+}
+
+.company-logo {
+    padding: 20%;
+    /* width: 60%; */
+    margin: auto;
+}
+
+.sponsor-level {
+    text-align: center;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 1.2rem;
+    color:hsl(0, 0%, 12%)
+}
+
+
+@media screen and (max-width: 940px) {
+    .parallax-image-container {
+        max-width: 100vw;
+        background-image: url(./assets/SplashImages/mentoring.jpg);
+        background-image: radial-gradient(circle, hsla(0, 0%, 0%, 0.4) 0%, hsla(0, 0%, 0%, 0.5) 60%, hsla(0, 0%, 0%, 0.6) 70%, hsla(0, 0%, 0%, 0.7) 80%, hsla(0, 0%, 0%, 0.8) 90%), url(./assets/SplashImages/mentoring.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: scroll;
+    }
+
+    .sponsors-text {
+        font-size: 1.5rem;
+    }
+
+    .sponsor-level {
+        font-size: 1rem;
+    }
+
+    .company-logo {
+        padding: 18%;
+    }
+
+    .sponsors-logo-container {
+        width: 25vw;
+        margin: 2rem;
+    }
+
+    .badge {
+        height: 25vw;
+        width: 25vw;
+        
+    }
+
+    .badge-black {
+        border: 1.5vw solid black;
+        background-color: hsl(0, 0%, 0%, .125);
+    }
+
+    .badge-blue {
+        border: 1.5vw solid var(--blue);
+        background-color: var(--blue-bg);
+    }
+
+    .badge-silver {
+        border: 1.5vw solid var(--silver);
+        background-color: var(--silver-bg);
+    }
+
+    .badge-gold {
+        border: 1.5vw solid var(--gold);
+        background-color: var(--gold-bg);
+    }
+
+    .badge-platinum {
+        border: 1.5vw solid var(--platinum);
+        background-color: var(--platinum-bg);
+    }
+
+}
+
+@media screen and (min-width: 941px) {
+    .badge-black {
+        outline: .35vw solid black;
+    }
+
+    .badge-blue {
+        outline: .35vw solid var(--blue);
+    }
+
+    .badge-silver {
+        outline: .35vw solid var(--silver);
+    }
+
+    .badge-gold {
+        outline: .35vw solid var(--gold);
+    }
+
+    .badge-platinum {
+        outline: .35vw solid var(--platinum);
+    }
+
+    .badge {
+        outline-style: double;
+        outline-offset: -1.25vw;
+        transition: outline-offset 200ms ease;
+    }
+
+    .badge:hover, .badge:focus, .badge:focus-within {
+        outline-offset: -1.5vw;
+    }
+}
+
