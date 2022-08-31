@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/KYCCWIC-react/static/css/main.06d90888.css",
-    "main.js": "/KYCCWIC-react/static/js/main.1090b20f.js",
+    "main.js": "/KYCCWIC-react/static/js/main.98be38e9.js",
     "static/js/787.b062fc82.chunk.js": "/KYCCWIC-react/static/js/787.b062fc82.chunk.js",
     "static/media/marge-laptop-sunny.jpg": "/KYCCWIC-react/static/media/marge-laptop-sunny.3989de03c470fbf229be.jpg",
     "static/media/evelyn_thrasher.jpg": "/KYCCWIC-react/static/media/evelyn_thrasher.bca24acdcc94cf6aa4ba.jpg",
@@ -26,11 +26,6 @@
     "static/media/amy_norrod.jpg": "/KYCCWIC-react/static/media/amy_norrod.47143f95202df6eae2e1.jpg",
     "static/media/Coretech.png": "/KYCCWIC-react/static/media/Coretech.c51cf2560071846c28f0.png",
     "static/media/april_harris.jpg": "/KYCCWIC-react/static/media/april_harris.751141f3ec89f59ef63a.jpg",
-    "static/media/badge-gold.png": "/KYCCWIC-react/static/media/badge-gold.330db39009651feadd09.png",
-    "static/media/badge-platinum.png": "/KYCCWIC-react/static/media/badge-platinum.8c35908f2448287f133a.png",
-    "static/media/badge-silver.png": "/KYCCWIC-react/static/media/badge-silver.ed22d54a3f4b31b0aaed.png",
-    "static/media/badge-blue.png": "/KYCCWIC-react/static/media/badge-blue.148c57940d6db09a1778.png",
-    "static/media/badge-black.png": "/KYCCWIC-react/static/media/badge-black.8313a38b49ce2030afbd.png",
     "static/media/jessica_adams.jpg": "/KYCCWIC-react/static/media/jessica_adams.aeb38ca2f065a4fbd2c4.jpg",
     "static/media/skyctc-logo-blue.png": "/KYCCWIC-react/static/media/skyctc-logo-blue.d0cb7a8c042f70bf116b.png",
     "static/media/Forvis.png": "/KYCCWIC-react/static/media/Forvis.2c4906f76380f16e90f5.png",
@@ -40,11 +35,11 @@
     "static/media/logo.svg": "/KYCCWIC-react/static/media/logo.b3f0bcaf81510ffb49d3.svg",
     "index.html": "/KYCCWIC-react/index.html",
     "main.06d90888.css.map": "/KYCCWIC-react/static/css/main.06d90888.css.map",
-    "main.1090b20f.js.map": "/KYCCWIC-react/static/js/main.1090b20f.js.map",
+    "main.98be38e9.js.map": "/KYCCWIC-react/static/js/main.98be38e9.js.map",
     "787.b062fc82.chunk.js.map": "/KYCCWIC-react/static/js/787.b062fc82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06d90888.css",
-    "static/js/main.1090b20f.js"
+    "static/js/main.98be38e9.js"
   ]
 }
