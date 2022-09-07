@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b2d8254a.css",
-    "main.js": "/static/js/main.395e1915.js",
+    "main.css": "/static/css/main.fdd12158.css",
+    "main.js": "/static/js/main.e326d0ad.js",
     "static/js/787.b062fc82.chunk.js": "/static/js/787.b062fc82.chunk.js",
     "static/media/marge-laptop-sunny.jpg": "/static/media/marge-laptop-sunny.3989de03c470fbf229be.jpg",
     "static/media/evelyn_thrasher.jpg": "/static/media/evelyn_thrasher.bca24acdcc94cf6aa4ba.jpg",
@@ -10,6 +10,7 @@
     "static/media/mentoring.jpg": "/static/media/mentoring.fd3eb90e282ad66dac01.jpg",
     "static/media/tiffany_deaton.jpg": "/static/media/tiffany_deaton.a633c04125cb9401c318.jpg",
     "static/media/marge-network-rack.jpg": "/static/media/marge-network-rack.76e488645bfd12b08c93.jpg",
+    "static/media/classroom-projector.jpg": "/static/media/classroom-projector.2c7ddec465183106198c.jpg",
     "static/media/work-at-computer-station.jpg": "/static/media/work-at-computer-station.90c80e430296c56eaec0.jpg",
     "static/media/MH.jpg": "/static/media/MH.c312f1a56831457d1cdb.jpg",
     "static/media/welcome-background-smaller.jpg": "/static/media/welcome-background-smaller.123a321c509c9eedfe2c.jpg",
@@ -34,12 +35,12 @@
     "static/media/skyctc.svg": "/static/media/skyctc.aa0c0f0ddea0a023b2d7.svg",
     "static/media/logo.svg": "/static/media/logo.b3f0bcaf81510ffb49d3.svg",
     "index.html": "/index.html",
-    "main.b2d8254a.css.map": "/static/css/main.b2d8254a.css.map",
-    "main.395e1915.js.map": "/static/js/main.395e1915.js.map",
+    "main.fdd12158.css.map": "/static/css/main.fdd12158.css.map",
+    "main.e326d0ad.js.map": "/static/js/main.e326d0ad.js.map",
     "787.b062fc82.chunk.js.map": "/static/js/787.b062fc82.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2d8254a.css",
-    "static/js/main.395e1915.js"
+    "static/css/main.fdd12158.css",
+    "static/js/main.e326d0ad.js"
   ]
 }
