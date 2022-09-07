@@ -1,0 +1,37 @@
+[
+    {
+        "id" : "kati_register",
+        "event_time" : "7:30 - 8:30 AM",
+        "event_title" : "Registration at Kentucky Advanced Technology Institute Campus"
+    },
+
+    {
+        "id" : "kati_welcome",
+        "event_time" : "8:00 - 8:45 AM",
+        "event_title" : "Welcome"
+    },
+
+    {
+        "id" : "breakout_1",
+        "event_time" : "9:00 - 9:45 AM",
+        "event_title" : "Breakout Sessions, Career Fair"
+    },
+
+    {
+        "id" : "breakout_2",
+        "event_time" : "10:00 - 10:45 AM",
+        "event_title" : "Breakout Sessions, Career Fair"
+    },
+
+    {
+        "id" : "breakout_3",
+        "event_time" : "11:00 11:45 AM",
+        "event_title" : "Breakout Sessions, Career Fair"
+    },
+
+    {
+        "id" : "kati_close",
+        "event_time" : "12:00 - 2:00 PM",
+        "event_title" : "Lunch, Employment Panel, Closing Remarks, Door Prizes"
+    }
+]

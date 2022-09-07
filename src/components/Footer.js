@@ -10,7 +10,7 @@ function Footer() {
         <div className="organization footer-column">
             <h5>KYCCWIC 2023</h5>
             <div className="footer-logo-container">
-                <a href="/" className="footer-logo-link" target='_blank' rel="noreferrer"><img className="footer-logo-image" src={require('./assets/logo.png')} alt="KYCC Logo" /></a>
+                <a href="/" className="footer-logo-link"><img className="footer-logo-image" src={require('./assets/logo.png')} alt="KYCC Logo" /></a>
                 <a href="https://www.acm.org" className="footer-logo-link" target='_blank' rel="noreferrer"><img className="footer-logo-image" src={require('./assets/acm-w-logo-transparent.png')} alt="ACM-W Logo" /></a>
                 <a href="https://southcentral.kctcs.edu/" className="footer-logo-link" target='_blank' rel="noreferrer"><img className="footer-logo-image" src={require('./assets/skyctc-logo-blue.png')} alt="SKYCTC Logo" /></a>
             </div>

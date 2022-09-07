@@ -1,0 +1,10 @@
+#register h1 {
+    text-align: center;
+    text-shadow: var(--gentle-box-shadow);
+    padding: 1.25rem;
+    border: var(--pathfinder-yellow) .25rem solid;
+    border-radius: .75rem;
+    box-shadow: var(--gentle-box-shadow);
+    background-color: transparent;
+    margin-bottom: 2rem;
+}

@@ -49,7 +49,7 @@ const Navbar = () => {
           {/* <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="#event-committee">Event Committee</a></li> */}
           <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="#sponsors">Sponsors</a></li>
           {/* <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="#speakers">Speakers</a></li> */}
-          {/* <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="#agenda">Agenda</a></li> */}
+          <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="#agenda">Agenda</a></li>
           <li onClick={handleNavClick} className="nav-item"><a className='nav-button' href="#register">Register</a></li>
         </ul>
       </nav>

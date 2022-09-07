@@ -9,6 +9,8 @@ import About from './components/About';
 import EventCommittee from './components/EventCommittee';
 import Sponsors from './components/Sponsors';
 import Footer from './components/Footer';
+import Agenda from './components/Agenda';
+import Register from './components/Register';
 
 function App() {
 
@@ -20,6 +22,8 @@ function App() {
       <About />
       <EventCommittee />
       <Sponsors />
+      <Agenda />
+      <Register />
 
 
       <Footer />

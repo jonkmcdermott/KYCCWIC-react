@@ -1,0 +1,112 @@
+.agenda-container {
+    background-color: var(--skyctc-blue);
+    padding: 1rem 0rem;
+}
+
+.agenda-container .section-heading {
+    color: white;
+}
+
+.agenda-day {
+    background-color: white;
+    padding: 1rem;
+    margin: 1rem auto;
+}
+
+.agenda-title {
+    color: var(--pathfinder-yellow);
+    margin-bottom: .125rem;
+    font-weight: 900;
+    
+}
+
+.agenda-date-time {
+    font-style: italic;
+    font-weight: 550;
+    margin-bottom: .25rem;
+    color: hsl(0, 0%, 21%);
+}
+
+.agenda-event {
+    margin: 1rem auto;
+    border: black .025rem solid;
+    display: flex;
+    flex-direction: column;
+    box-shadow: var(--gentle-box-shadow);
+    background-color: white;
+    transition:
+        border 200ms ease,
+        backgound-color 200ms ease,
+        box-shadow 200ms ease;
+}
+
+.event-time {
+    font-weight: 600;
+    font-size: 1.15rem;
+    padding: .25rem;
+    border: black .025rem solid;
+    width: 100%;
+    text-align: center;
+}
+
+.event-details {
+    padding: .25rem;
+    font-size: 1.15rem;
+    border: black .025rem solid;
+    width: 100%;
+    text-align: center;
+}
+
+.event-title {
+    font-weight: 700;
+    color: var(--skyctc-blue);
+    
+}
+
+/* Big screens */
+@media screen and (min-width: 1080px) {
+    .agenda-container {
+        background-color: grey;
+        background-image: url(./assets/SplashImages/sarah-ap.jpg);
+        background-image: radial-gradient(circle, hsl(207, 100%, 25%, .5) 0%, hsl(207, 100%, 25%, .6) 60%, hsl(207, 100%, 25%, .7) 70%, hsl(207, 100%, 25%, .8) 80%, hsl(207, 100%, 25%, .9) 90%), url(./assets/SplashImages/classroom-projector.jpg);
+        min-height: 20rem;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .agenda-container .section-heading {
+        padding-bottom: 1rem;
+    }
+
+    .agenda-event {
+        flex-direction: row;
+    }
+
+    .agenda-event:hover,
+    .agenda-event:focus,
+    .agenda-event:focus-within {
+        border: hsl(0, 0%, 30%) 0.025rem solid;
+        background-color: var(--off-white);
+    }
+
+    .event-time {
+        width: 25%;
+        font-size: 1.25rem;
+    }
+
+    .event-details {
+        width: 75%;
+        font-size: 1.25rem;
+        text-align: left;
+    }
+
+    .agenda-date-time {
+        font-size: 1.125rem;
+    }
+
+    .event-location {
+        font-size: 1.125rem;
+    }
+}
