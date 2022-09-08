@@ -10,6 +10,7 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
     color: var(--skyctc-blue);
     padding: .75rem 1.5rem;
     background-color: var(--off-white);
