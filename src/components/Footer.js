@@ -19,9 +19,10 @@ function Footer() {
         <div className="page-navigation footer-column">
             <h5>Navigation</h5>
             <ul className="footer-nav-menu">
-                <li className="footer-nav-item"><a className="footer-nav-link" href="/">Home</a></li>
+                <li className="footer-nav-item"><a className="footer-nav-link" href="#home">Home</a></li>
                 <li className="footer-nav-item"><a className="footer-nav-link" href="#about">About</a></li>
                 <li className="footer-nav-item"><a className="footer-nav-link" href="#sponsors">Sponsors</a></li>
+                <li className="footer-nav-item"><a className="footer-nav-link" href="#agenda">Agenda</a></li>
                 <li className="footer-nav-item"><a className="footer-nav-link" href="#register">Register</a></li>
             </ul>
         </div>

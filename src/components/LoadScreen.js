@@ -5,7 +5,7 @@ import './LoadScreen.css';
 const LoadScreen = () => {
 
     return (
-        <div className="welcome-container">
+        <div id="home" className="welcome-container">
             <div className="welcome-grid">
                 <div className="welcome-message-box">
                     <div className="welcome-message">
