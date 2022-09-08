@@ -1,5 +1,5 @@
 import React from 'react'
-import {FaFacebook, FaTwitter} from 'react-icons/fa'
+import {FaFacebook, FaTwitter, FaEnvelope} from 'react-icons/fa'
 import './Footer.css'
 
 function Footer() {
@@ -29,7 +29,8 @@ function Footer() {
         <div className="contact-us footer-column">
             <h5>Contact Us</h5>
             <p className="sub-title">Event Contact</p>
-            <a className="footer-email" href="mailto:carmen.gaskins@kctcs.edu">Email Carmen Gaskins</a>
+            <a className="footer-email" href="mailto:carmen.gaskins@kctcs.edu"><FaEnvelope className="footer-email-icon"/> Carmen Gaskins</a>
+            
             <p className="sub-title">Social Media</p>
             <div className="footer-social-icon-div">
                 <a className="footer-social-icon" href="https://www.facebook.com/groups/1162883927542419" target='_blank' rel="noreferrer"><FaFacebook/></a>

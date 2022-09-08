@@ -64,12 +64,21 @@
 .sub-title {
     font-weight: bold;
     margin-top: 1rem;
+    color: hsl(0, 0%, 20%);
 }
 
 .footer-email {
     color: var(--skyctc-blue);
     transition: color 200ms ease;
     font-weight: 600;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.footer-email-icon {
+    margin-right: .5rem;
 }
 
 .footer-email:hover, .footer-email:focus {

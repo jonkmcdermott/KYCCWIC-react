@@ -76,8 +76,12 @@
         background-size: cover;
     }
 
-    .agenda-container .section-heading {
+    /* .agenda-container .section-heading {
         padding-bottom: 1rem;
+    } */
+
+    .agenda-day {
+        margin-top: 5rem;
     }
 
     .agenda-event {
