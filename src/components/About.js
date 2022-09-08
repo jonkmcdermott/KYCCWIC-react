@@ -1,7 +1,12 @@
 import React from 'react'
+import { useInView } from 'react-intersection-observer';
 import './About.css'
 
 function About() {
+
+  //Intersection observer for animations
+  const { ref: infoBlockRef, inView: isInfoBlockVisible } = useInView();
+
   return (
     <div className='container' id='about'>
         <h1 className='section-heading'>About Us</h1>
@@ -52,6 +57,25 @@ function About() {
 
           </div>
           
+        </div>
+
+        <h3 className="subsection-heading">Hosted by <em className="skyctc-title">Southcentral Kentucky Community & Technical College</em></h3>
+        <p className="text-block">
+          <a href="https://southcentral.kctcs.edu/" className="external-link" target='_blank' rel="noreferrer">Southcentral Kentucky Community & Technical College </a> 
+          is one of 16 colleges in the Kentucky Community and Technical College 
+          System.  It contains six campuses preparing students to improve their quality of life through Associate in Arts, Associate in 
+          Science, and Associate in Applied Science degrees.  We are excited to host the 2023 ACM-W KYCC Women in Computing Celebration.  
+          We look forward having you at our beautiful Kentucky Advanced Technology Institute (KATI) campus and experiencing the only 
+          Corvette Museum in the world.  Thank you and see you soon!
+        </p>
+
+        <div ref={infoBlockRef} className={isInfoBlockVisible ? 'info-block info-block-animation' : 'info-block'}>
+          <h5>New to Bowling Green, KY?</h5>
+          <p>
+            Visiting Bowling Green for the Women in Computing Celebration and need to know a little more about our city?  Check out this
+            <a href="http://www.mydigipub.com/publication/?i=710973" className="external-link" target='_blank' rel="noreferrer"> helpful guide to BG </a> from our friends at
+            <a href="https://www.visitbgky.com/" className="external-link" target='_blank' rel="noreferrer"> VisitBGKY.com</a>.
+          </p>
         </div>
 
     </div>

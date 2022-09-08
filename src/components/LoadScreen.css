@@ -43,7 +43,7 @@
   margin-top: 10%;
   font-size: 1rem;
   border-radius: 1.5rem;
-  background-color: hsl(214, 97%, 13%, 80%);
+  background-color: hsl(214, 97%, 13%, 65%);
   width: max(80vw, 15rem);
   max-height: 90vh;
   color: hsla(0, 0%, 100%, 100%);
@@ -64,7 +64,7 @@
 }
 
 .welcome-message-box:hover {
-  background-color: hsl(214, 97%, 13%, 65%);
+  background-color: hsl(214, 97%, 13%, 45%);
   border-radius: 2.5rem;
 }
 

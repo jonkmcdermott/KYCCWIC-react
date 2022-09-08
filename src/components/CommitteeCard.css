@@ -12,7 +12,7 @@
     justify-content: space-between;
     align-items: center;
     color: var(--skyctc-blue);
-    padding: .75rem 1.5rem;
+    padding: .75rem .75rem;
     background-color: var(--off-white);
     font-size: 1rem;
     font-weight: 600;
@@ -25,10 +25,6 @@
 .chevron-icon {
     color: var(--skyctc-blue);
 }
-
-/* .bio-card-title p {
-    margin-left: .5rem;
-} */
 
 .bio-card-title:hover, 
 .bio-card-title:focus, 
@@ -107,7 +103,8 @@
 
     .bio-card-title {
         font-size: 1.5rem;
-        position: relative
+        position: relative;
+        padding: .75rem 1.5rem;
     }
 
     .bio-card-title::after{
