@@ -39,7 +39,8 @@
 }
 
 .footer-logo-image:hover {
-    padding: calc(.5rem + 3px);
+    /* padding: calc(.5rem + 1px); */
+    padding: .5rem;
 }
 
 .footer-nav-menu {
