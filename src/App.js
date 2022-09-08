@@ -11,6 +11,9 @@ import Sponsors from './components/Sponsors';
 import Footer from './components/Footer';
 import Agenda from './components/Agenda';
 import Register from './components/Register';
+import BreakoutSessions from './components/BreakoutSessions';
+import EmploymentPanel from './components/EmploymentPanel';
+import Keynote from './components/Keynote';
 
 function App() {
 
@@ -23,9 +26,11 @@ function App() {
       <EventCommittee />
       <Sponsors />
       <Agenda />
+      <Keynote />
+      <BreakoutSessions />
+      <EmploymentPanel />
+
       <Register />
-
-
       <Footer />
     </div>
   );

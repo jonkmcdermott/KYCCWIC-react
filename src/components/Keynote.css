@@ -1,0 +1,19 @@
+.keynote-container {
+    background-color: hsl(214, 97%, 13%, 100%);
+    background-image: url(./assets/SplashImages/corvette-museum-white.jpg);
+}
+
+.keynote-content-shell {
+    background-color: hsl(214, 97%, 13%, 20%);
+    color: white;
+}
+
+.keynote-content {
+    background-color: rgba(255, 0, 0, 0.295);
+    height: 95%;
+}
+
+.keynote-speaker {
+    height: 90%;
+    background-color: rgba(0, 0, 255, 0.315);
+}
