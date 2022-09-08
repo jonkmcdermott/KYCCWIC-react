@@ -36,8 +36,8 @@
     color: white;
     padding: .5rem 1rem;
     opacity: 0;
-    border: .25rem solid var(--skyctc-blue);
-    border-radius: 1.5rem;
+    border: .125rem solid var(--skyctc-blue);
+    border-radius: 1rem;
 }
 
 .info-block-animation {
@@ -52,6 +52,18 @@
     100% {
         opacity: 1;
     }
+}
+
+.heading-celebrate {
+    color: var(--bright-yellow);
+}
+
+.heading-inform {
+    color: var(--party-blue);
+}
+
+.heading-support {
+    color: var(--skyctc-blue);
 }
 
 
@@ -91,4 +103,36 @@
     .info-block-animation {
         animation: info-animation 1.5s ease forwards;
     }
+
+    .heading-celebrate {
+        text-shadow:.1rem .1rem .15rem hsla(0, 0%, 0%, 0.1);
+    }
+
+    .heading-inform {
+        text-shadow:.1rem .1rem .15rem hsla(0, 0%, 0%, 0.1);
+    }
+
+    .heading-support {
+        text-shadow:.1rem .1rem .15rem hsla(0, 0%, 0%, 0.1);
+    }
+
+    .heading-theme-target,
+    .heading-celebrate,
+    .heading-inform,
+    .heading-support {
+        transition: all 200ms ease;
+    }
+
+    .heading-theme-target:hover .heading-celebrate {
+        text-shadow: .25rem .25rem 4rem hsla(42, 100%, 58%, 0.5);
+    }
+
+    .heading-theme-target:hover .heading-inform {
+        text-shadow: .25rem .25rem 4rem hsl(180, 91%, 56%, .5);
+    }
+
+    .heading-theme-target:hover .heading-support {
+        text-shadow: .25rem .25rem 4rem hsla(207, 100%, 39%, 0.5);
+    }
+
 }

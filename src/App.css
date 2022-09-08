@@ -128,7 +128,7 @@ body {
 .container {
   padding-top: 2rem;
   padding-bottom: 3rem;
-  width: min(90%, 60rem);
+  width: min(90%, 65rem);
   margin-inline: auto;
 }
 

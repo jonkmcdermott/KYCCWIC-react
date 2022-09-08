@@ -17,7 +17,7 @@ function About() {
           will focus on computer security, computer programming, data analytics, technology trends, and employment. 
         </p>
 
-        <h3 className="subsection-heading">This Year's Theme: <em className='accent-color'>Celebrate, Inform, Support</em></h3>
+        <h3 className="subsection-heading">This Year's Theme: <span className='accent-color heading-theme-target'><span class="heading-celebrate">Celebrate,</span> <span class="heading-inform">Inform,</span> <span class="heading-support">Support</span></span></h3>
         <p className='text-block'>
           Through the pandemic, it's been more important than ever to celebrate, inform and support women in the field of computing. 
           Women in computing continue to face both growth and challenges.  We all know that women are powerhouses in the workplace.  
@@ -47,12 +47,12 @@ function About() {
         <div className="event-history-block">
           <div>
             <ul className='history-list'>
-              <li className="history-list-item"><em className="accent-color">2013 </em> Bluegrass Community & Technical College</li>
-              <li className="history-list-item"><em className="accent-color">2015 </em> Bluegrass Community & Technical College</li>
-              <li className="history-list-item"><em className="accent-color">2017 </em> Bluegrass Community & Technical College</li>
-              <li className="history-list-item"><em className="accent-color">2019 </em> Owensboro Community & Technical College</li>
-              <li className="history-list-item"><em className="accent-color">2021 </em> Southcentral Kentucky Community & Technical College</li>
-              <li className="history-list-item"><em className="accent-color">2023 </em> Southcentral Kentucky Community & Technical College</li>
+              <li className="history-list-item"><span className="accent-color">2013 </span> Bluegrass Community & Technical College</li>
+              <li className="history-list-item"><span className="accent-color">2015 </span> Bluegrass Community & Technical College</li>
+              <li className="history-list-item"><span className="accent-color">2017 </span> Bluegrass Community & Technical College</li>
+              <li className="history-list-item"><span className="accent-color">2019 </span> Owensboro Community & Technical College</li>
+              <li className="history-list-item"><span className="accent-color">2021 </span> Southcentral Kentucky Community & Technical College</li>
+              <li className="history-list-item"><span className="accent-color">2023 </span> Southcentral Kentucky Community & Technical College</li>
           </ul>
 
           </div>

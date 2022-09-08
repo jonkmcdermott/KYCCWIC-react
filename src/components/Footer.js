@@ -28,7 +28,7 @@ function Footer() {
 
         <div className="contact-us footer-column">
             <h5>Contact Us</h5>
-            <p className="sub-title">Event Contact</p>
+            <p className="sub-title">Event Coordinator</p>
             <a className="footer-email" href="mailto:carmen.gaskins@kctcs.edu"><FaEnvelope className="footer-email-icon"/> Carmen Gaskins</a>
             
             <p className="sub-title">Social Media</p>

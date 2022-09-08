@@ -48,66 +48,6 @@ function Agenda() {
 
         </div>
 
-
-
-        {/* <h1>BELOW IS HARD CODED</h1> */}
-
-
-
-        {/* <div className="agenda-day">
-            <h3 className="agenda-title">THURSDAY</h3>
-            <h4 className="agenda-date-time">March 16, 2023 (CST)</h4>
-            <p className="event-location"><strong>LOCATION: </strong><a href="/" className="external-link">National Corvette Museum, Bowling Green, KY</a></p>
-
-
-            <div className="agenda-event">
-                <div className="event-time">
-                    <p>2:00 - 3:00 PM</p>
-                </div>
-
-                <div className="event-details">
-                    <p className="event-title">Registration at National Corvette Museum</p>
-                </div>
-            </div>
-
-
-            <div className="agenda-event">
-                <div className="event-time">
-                    <p>3:00 - 5:00 PM</p>
-                </div>
-
-                <div className="event-details">
-                    <p className="event-title">Welcome, Keynote, Celebrations</p>
-                </div>
-            </div>
-
-
-            <div className="agenda-event">
-                <div className="event-time">
-                    <p>5:00 - 6:00 PM</p>
-                </div>
-
-                <div className="event-details">
-                    <p className="event-title">Group Tour of Corvette Museum</p>
-                </div> 
-            </div>
-
-
-            <div className="agenda-event">
-                <div className="event-time">
-                    <p>6:00 - 8:00 PM</p>
-                </div>
-
-                <div className="event-details">
-                    <p className="event-title">Dinner, Keynote, Closing Remarks</p>
-                </div> 
-            </div>
-
-
-        </div> */}
-
-
-
       </div>
     </div>
   )

@@ -34,7 +34,7 @@ function EventCommittee() {
   return (
     <div className='event-committee'>
         <div className="container" id='event-committee'>
-            <h1 className="section-heading">KYCCWIC <em className='color-highlight'>Event Planning Committee</em></h1>
+            <h1 className="section-heading">KYCCWIC <span className='color-highlight'>Event Planning Committee</span></h1>
             <p className="text-block">
                 Meet the wonderful women of this committee who have been responsible for preparing and organizing 
                 the 2023 Celebration of Women in Computing.  Without their diligent efforts, we would not 
