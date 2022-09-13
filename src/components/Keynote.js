@@ -1,5 +1,18 @@
 import React from 'react'
 import './Keynote.css'
+import KeynoteData from './data/Keynote.json'
+
+function DisplayKeynoteSpeakers() {
+  const KeynoteSpeakers = KeynoteData.map((keynote_speaker) =>
+    <div className="keynote-speaker">
+      <h1>I'm a Keynote Speaker</h1>
+    </div>
+  );
+
+  return (
+    <div>{KeynoteSpeakers}</div>
+  );
+}
 
 function Keynote() {
   return (
@@ -8,12 +21,7 @@ function Keynote() {
             <div className="keynote-content container">
                 <h3>Keynote Speakers</h3>
 
-                <div className="keynote-speaker">
-                    <p>I'm a speaker</p>
-                </div>
-
-
-                
+                {DisplayKeynoteSpeakers()}
             </div>
         </div>
     </div>

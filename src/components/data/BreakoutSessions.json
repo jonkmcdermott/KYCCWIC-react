@@ -1,114 +1,114 @@
 [
-    {
-      "id": "andy_mills",
-      "image_exists": true,
-      "image": "./assets/BreakoutSessions/andy_mills.jpg",
-      "title": "Andy Mills",
-      "bio": ""
-    },
-    {
-      "id": "art_mcfadden",
-      "image_exists": true,
-      "image": "./assets/BreakoutSessions/art_mcfadden.jpg",
-      "title": "Art McFadden",
-      "bio": "I have always had an interest in technology and originally had planned to be in a career related to my bachelor's Degree. Upon graduation, I joined the Franklin Police Department.  After a few years of working patrol, a position opened in the Franklin Police Departments Investigations Unit. I was assigned to general investigations, and specialized in crimes involving technology, sexual offenses, and crimes against children.  As crimes involving technology became more common, I saw the need for more formal education in the IT field. I attended Bowling Green Technical College (now Southcentral Kentucky Community and Technical College - SKYCTC), a part of the Kentucky Community & Technical College System. I earned an Associates of Applied Science in Computer and Information Technology, specializing in Network Technologies.  I was fortunate enough to be asked to be on the United States Secret Service Electronic Crimes Task Force. They are given advanced training at the National Computer Forensic Institute in Hover, Alabama. My work with the ECTC was one of the highlights of my career.  I was promoted to Captain, Assistant Chief of Police, a few years before my retirement. That ended my days of investigations. Looking back at my career, I know the most import thing I did was help victims, particularly children, get the justice they deserved.  After retirement, I became an adjunct instructor with SKYCTC which lead to my current full-time position teaching networking and security related classes. These experiences solidified my love and appreciation for SKYCTC as a fantastic place to learn, work, and connect.  "
-    },
-    {
-      "id": "casey_wilhelm",
-      "image_exists": true,
-      "image": "./assets/BreakoutSessions/casey_wilhelm.jpg",
-      "title": "Casey Wilhelm",
-      "bio": "Casey Wilhelm is a Professor in Business Administration at North Idaho College. He is the co-author of Connect Master MIS and Connect Master Investigating Technology. Connect Master MIS and Connect Master Investigating Technology are used to teach students about the ever-changing world of technology and has been used by over 100,000 students. He has conducted extensive research in Instructional Technology and Design, specifically on the learning styles and traits of Millennial and Gen Z learners. Professor Wilhelm has spoken at numerous national and international events on a variety of technology related topics. "
-    },
-    {
-      "id": "cindy_hines",
-      "image_exists": false,
-      "image": "./assets/BreakoutSessions/cindy_hines.jpg",
-      "title": "Cindy Hines, SHRM-SCP, SPHR, MBA",
-      "bio": "Cindy Hines is co-owner and COO of C & S Business Group and the Vice President of Talent Development at Leadership Strategies Group. Her extensive experience as a Human Resources and Organizational Development leader includes the fast-moving consumer goods industry, banking, manufacturing and healthcare. She has domestic multi-state and international experience focused on shaping the HR agenda that supports key organizational goals.  She has experience collaborating with manufacturing facilities as well as corporate locations.\\nCindy has overseen the talent acquisition and talent management strategies as well as several corporate and sales department restructurings and Mergers and Acquisitions.  She has led assessment centers across the US that resulted in quality hires and increased retention through selectively hiring and implementing an onboarding process that doesn't stop after 90 days.  Her experience includes culminating HQ offices while executing layoffs and location wind down, while keeping respect and concern for the employees as her primary driver.\\nShe has an MBA from Western Kentucky University and is an adjunct faculty member in the Management Department.  Cindy has authored a chapter in the professional book “What's Next in Human Resources” and is also published in “Cultivating Culture”.\\nCindy's primary focus is workplace investigations, recruiting hard-to-fill positions, employee surveys, HR compliance including Affirmative Action Plans, and M&A's.   Cindy's passion is helping people and organizations to reach their fullest potential. She particularly likes to connect top talent to premier companies."
-    },
-    {
-      "id": "evan_harmon",
-      "image_exists": false,
-      "image": "./assets/BreakoutSessions/evan_harmon.jpg",
-      "title": "Evan Harmon",
-      "bio": "Evan T. Harmon, MHI, RHIA, is the Remote Patient Monitoring (RPM) System Leader for Baptist Health Kentucky, responsible for RPM oversight, expansion, and strategy development. He previously served as Baptist's corporate IT manager providing support and direction over health information management IT applications, including the full suite of Epic HIM and 3M applications. He also served as a project manager, leading HIM integrated areas such as legal medical record, eMPI conversion, patient confidentiality, and ICD-10 for Baptist's nine facilities and 300+ outpatient locations. Evan has served in numerous board and committee positions, including president for the Kentucky Health Information Management Association (KHIMA) and River Valley Health Information Management Association (RvHIMA). He is currently Section Chair (I-1) over Alpha Phi Omega chapters in West and Central Kentucky.\\nhttps://www.linkedin.com/in/evan-harmon-mhi-rhia/"
-    },
-    {
-      "id": "leslie_benningfield",
-      "image_exists": false,
-      "image": "./assets/BreakoutSessions/leslie_benningfield.jpg",
-      "title": "Leslie Benningfield",
-      "bio": ""
-    },
-    {
-      "id": "lois_mcwhorter",
-      "image_exists": true,
-      "image": "./assets/BreakoutSessions/lois_mcwhorter.jpg",
-      "title": "Lois McWhorter",
-      "bio": "I have been an educator, administrator, and entrepreneur in education for several years. I currently serve as the Chair of Education at the University of the Cumberlands - Hutton School of Business, where I continue to support undergraduate and graduate students. My areas of particular interest include Teaching and professional learning, career and professional development (both online and face-to-face), diversity and inclusion, international education, and community outreach. In addition to my academic and professional life, I am passionate about public service. Serving on the Board of Directors for various community and community-based organizations is a high priority."
-    },
-    {
-      "id": "mariah_knowles",
-      "image_exists": true,
-      "image": "./assets/BreakoutSessions/mariah_knowles.jpg",
-      "title": "Mariah A. Knowles",
-      "bio": "Mariah A. Knowles is a Data Science Facilitator for the American Family Insurance Data Science Institute and Data Science Hub at the University of Wisconsin-Madison, where she meets with researchers across disciplines to provide data science training and consultation. An alumna of WKU, she is a former president of the WKU ACM Student Chapter and former Department Head of the ACM XRDS magazine. She has taught at SKy since 2015 and at UW-Madison since 2018. Her teaching includes database, intro to programming, web, and ethics, and her education includes Information Studies, English Rhetoric, and Computer Sciences. She is a mixed methods researcher, with focuses on data ethics, data ethics education, and emancipatory quantitative ethnography, using data science to boost important social science work such as telling transgender and indigenous stories."
-    },
-    {
-      "id": "mark_ciampa",
-      "image_exists": true,
-      "image": "./assets/BreakoutSessions/mark_ciampa.jpg",
-      "title": "Dr. Mark Ciampa",
-      "bio": "Dr. Mark Ciampa is a Professor of Information Systems in the Gordon Ford College of Business at Western Kentucky University in Bowling Green, Kentucky. Prior to this he was an Associate Professor and served as the Director of Academic Computing at Volunteer State Community College in Gallatin, Tennessee for 20 years. Mark has worked in the IT industry as a computer consultant for businesses, government agencies, and educational institutions. He has published over 25 articles in peer-reviewed journals and books. He is also the author of 30 technology textbooks from Cengage, including Security+ Guide to Network Security Fundamentals 7e, CompTIA CySA+ Guide to Cybersecurity Analyst 2e, CWNA Guide to Wireless LANs 3e, Guide to Wireless Communications, Security Awareness: Applying Practical Security In Your World 5e, and Networking BASICS. Dr. Ciampa holds a PhD in technology management with a specialization in digital communication systems from Indiana State University and has certifications in security and healthcare. "
-    },
-    {
-      "id": "mark_leonhardt",
-      "image_exists": true,
-      "image": "./assets/BreakoutSessions/mark_leonhardt.jpg",
-      "title": "Mark Leonhardt",
-      "bio": "Mark is a retired Navy Chief, who served his final tour as a Training officer and Naval instructor for Naval Training Center Saint Louis. He went on to serve as a Plant engineer for Georgia Pacific, Weyerhaeuser, and Kingsford manufacturing. During his tenure at Weyerhaeuser, he certified as a Master Trainer and was a corporate trainer for eight years. His past eight year has been spent as a trainer for SKYCTC Work force solutions division where he creates and delivers Engineering/Technical and Leadership training for contracted companies throughout the 10 counties surrounding Bowling Green. He holds a B.S.  in Technical/Vocational Education from Valdosta University Georgia and a M.S. in Engineering and technology management from Western Kentucky University."
-    },
-    {
-      "id": "roberta_darnez",
-      "image_exists": true,
-      "image": "./assets/BreakoutSessions/roberta_darnez.jpg",
-      "title": "Roberta Darnez Pope",
-      "bio": "Roberta Darnez Pope, MSHI, RHIT, a Health Information Management (HIM) Instructor in the Public Health Department at Western Kentucky University (WKU). She is a graduate of Volunteer State Community College, Trevecca Nazarene University and the University of Illinois at Chicago School of Applied Health Sciences. Her health information management career began at Vanderbilt University Medical Center. At WKU, Pope served on the College of Health and Human Services-Public Health Research Team.  She has been an active member with AHIMA since 1996, and serves on the AHIMA Foundation of Research Network (AFRN). Her experience includes positions in academia and health information management. She assisted with the Refugee Health Summit which was hosted by the WKU Public Health Department. Her practice and research efforts include health information and informatics, population health, health disparities, and HIM education."
-    },
-    {
-      "id": "sarah_asman",
-      "image_exists": false,
-      "image": "./assets/BreakoutSessions/sarah_asman.jpg",
-      "title": "Sarah Asman",
-      "bio": ""
-    },
-    {
-      "id": "shannon_houser",
-      "image_exists": true,
-      "image": "./assets/BreakoutSessions/shannon_houser.jpg",
-      "title": "Dr. Shannon Houser",
-      "bio": "Shannon H. Houser, Ph.D., MPH, RHIA, FAHIMA, is a Professor in the Health Services Administration Department and Graduate Program in Health Informatics; an Associate Scientist in the Center for AIDS Research at the University of Alabama at Birmingham (UAB).  She is a Visiting Professor at Tsinghua University in China and participated in designing the curriculum and teaching courses in the Masters in Hospital Management. She has been actively serving in leadership roles in health information and informatics professions at both national and international levels. She is the Chair for the AHIMA Foundation of Research Network (AFRN) and is a recipient of AHIMA's Triumph Award for Research Award in 2007. Dr. Houser received her Doctoral and master's degrees in Health Behavior/Epidemiology from the School of Public Health, and Bachelor of Sciences in Health Information Management from UAB. She served as a committee member of the National Academy of Medicine Committee to Review Data Systems for Monitoring HIV/AIDS Care, and an advisor and consultant to the Global Health Projects monitoring and evaluation for Project HOPE. She is a well-published author, researcher, and participates in research studies involved in health information and informatics, healthcare management, and public health.   "
-    },
-    {
-      "id": "stephanie_thacker",
-      "image_exists": true,
-      "image": "./assets/BreakoutSessions/stephanie_thacker.jpg",
-      "title": "Dr. Stephanie Thacker",
-      "bio": "Dr. Stephanie Thacker is a native of Corbin, KY.  She joined the University of the Cumberlands in April 2014 in Graduate Advising, where she assisted graduate education students.  Since then, she has served the University in staff and administrative positions.  Dr. Thacker has been a member of the Hutton School of Business faculty since 2017, where she teaches general business, management, and marketing courses.  She also serves as a dissertation committee member for doctoral students.\\nDr. Thacker completed her graduate and undergraduate studies at the University of the Cumberlands and is currently pursuing a Master's in Information Technology from the University of the Cumberlands.  She has a background in management, marketing, and course design and development.  Her research interests lie in leadership, marketing management and strategy, organizational learning and change, and strategic decision-making. "
-    },
-    {
-      "id": "tamela_smith",
-      "image_exists": false,
-      "image": "./assets/BreakoutSessions/tamela_smith.jpg",
-      "title": "Dr. Tamela W. Smith",
-      "bio": "Dr. Smith is a Staff Emeritus from WKU, having retired in 2018 from her position as Manager of Audiovisual Services in IT.  She holds a Master's degree in Communication and a Doctorate in Educational Leadership, with an emphasis in Organizational Leadership. She has taught in the areas of Communication and Organizational Leadership, both Undergraduate and Graduate level, for WKU.\\nWith over 16 years' experience in the field of video conferencing, her research areas focused on improving communications in computer-mediated environments.  She has presented on video conferencing communications at various national and international conferences.  Dr. Smith served two terms on WKU's Board of Regents as the elected Staff Regent, and served a 3-year term on the WKU Alumni Association National Board of Directors, including one year on the Executive Committee. Since retirement she has shifted her research focus and is currently completing her first book.  "
-    },
-    {
-      "id": "vince_dinoto",
-      "image_exists": true,
-      "image": "./assets/BreakoutSessions/vince_dinoto.jpg",
-      "title": "Vince DiNoto",
-      "bio": "Vince DiNoto, is the Director of the National Center of Excellence for Geospatial Technology (GeoTech Center), co-PI of the National Center for Autonomous Technology (NCAT), Professor of Physics, Astronomy, and Geospatial Technology, and Dean of College and Systemic Initiatives at Jefferson Community and Technical College. He received his degrees from Indiana State University in Terre Haute and has additional graduate hours from Indiana University Southeast and Ball State University. He has designed numerous courses over his career, most recently a Python Mapping course and a Web Mapping course. He is a dynamic grant designer, serving as PI, co-PI, and director of numerous projects and National Centers in Advanced Technology. He has mentored numerous faculty members in the AACC MentorLinks program and MentorConnects."
-    }
-   ]
+  {
+    "id": "andy_mills",
+    "image_exists": true,
+    "image": "./assets/BreakoutSessions/andy_mills.jpg",
+    "title": "Andy Mills",
+    "bio": ""
+  },
+  {
+    "id": "art_mcfadden",
+    "image_exists": true,
+    "image": "./assets/BreakoutSessions/art_mcfadden.jpg",
+    "title": "Art McFadden",
+    "bio": "I have always had an interest in technology and originally had planned to be in a career related to my bachelor's Degree. Upon graduation, I joined the Franklin Police Department.  After a few years of working patrol, a position opened in the Franklin Police Departments Investigations Unit. I was assigned to general investigations, and specialized in crimes involving technology, sexual offenses, and crimes against children.  As crimes involving technology became more common, I saw the need for more formal education in the IT field. I attended Bowling Green Technical College (now Southcentral Kentucky Community and Technical College - SKYCTC), a part of the Kentucky Community & Technical College System. I earned an Associates of Applied Science in Computer and Information Technology, specializing in Network Technologies.  I was fortunate enough to be asked to be on the United States Secret Service Electronic Crimes Task Force. They are given advanced training at the National Computer Forensic Institute in Hover, Alabama. My work with the ECTC was one of the highlights of my career.  I was promoted to Captain, Assistant Chief of Police, a few years before my retirement. That ended my days of investigations. Looking back at my career, I know the most import thing I did was help victims, particularly children, get the justice they deserved.  After retirement, I became an adjunct instructor with SKYCTC which lead to my current full-time position teaching networking and security related classes. These experiences solidified my love and appreciation for SKYCTC as a fantastic place to learn, work, and connect.  "
+  },
+  {
+    "id": "casey_wilhelm",
+    "image_exists": true,
+    "image": "./assets/BreakoutSessions/casey_wilhelm.jpg",
+    "title": "Casey Wilhelm",
+    "bio": "Casey Wilhelm is a Professor in Business Administration at North Idaho College. He is the co-author of Connect Master MIS and Connect Master Investigating Technology. Connect Master MIS and Connect Master Investigating Technology are used to teach students about the ever-changing world of technology and has been used by over 100,000 students. He has conducted extensive research in Instructional Technology and Design, specifically on the learning styles and traits of Millennial and Gen Z learners. Professor Wilhelm has spoken at numerous national and international events on a variety of technology related topics. "
+  },
+  {
+    "id": "cindy_hines",
+    "image_exists": false,
+    "image": "./assets/BreakoutSessions/cindy_hines.jpg",
+    "title": "Cindy Hines, SHRM-SCP, SPHR, MBA",
+    "bio": "Cindy Hines is co-owner and COO of C & S Business Group and the Vice President of Talent Development at Leadership Strategies Group. Her extensive experience as a Human Resources and Organizational Development leader includes the fast-moving consumer goods industry, banking, manufacturing and healthcare. She has domestic multi-state and international experience focused on shaping the HR agenda that supports key organizational goals.  She has experience collaborating with manufacturing facilities as well as corporate locations.\\nCindy has overseen the talent acquisition and talent management strategies as well as several corporate and sales department restructurings and Mergers and Acquisitions.  She has led assessment centers across the US that resulted in quality hires and increased retention through selectively hiring and implementing an onboarding process that doesn't stop after 90 days.  Her experience includes culminating HQ offices while executing layoffs and location wind down, while keeping respect and concern for the employees as her primary driver.\\nShe has an MBA from Western Kentucky University and is an adjunct faculty member in the Management Department.  Cindy has authored a chapter in the professional book “What's Next in Human Resources” and is also published in “Cultivating Culture”.\\nCindy's primary focus is workplace investigations, recruiting hard-to-fill positions, employee surveys, HR compliance including Affirmative Action Plans, and M&A's.   Cindy's passion is helping people and organizations to reach their fullest potential. She particularly likes to connect top talent to premier companies."
+  },
+  {
+    "id": "evan_harmon",
+    "image_exists": false,
+    "image": "./assets/BreakoutSessions/evan_harmon.jpg",
+    "title": "Evan Harmon",
+    "bio": "Evan T. Harmon, MHI, RHIA, is the Remote Patient Monitoring (RPM) System Leader for Baptist Health Kentucky, responsible for RPM oversight, expansion, and strategy development. He previously served as Baptist's corporate IT manager providing support and direction over health information management IT applications, including the full suite of Epic HIM and 3M applications. He also served as a project manager, leading HIM integrated areas such as legal medical record, eMPI conversion, patient confidentiality, and ICD-10 for Baptist's nine facilities and 300+ outpatient locations. Evan has served in numerous board and committee positions, including president for the Kentucky Health Information Management Association (KHIMA) and River Valley Health Information Management Association (RvHIMA). He is currently Section Chair (I-1) over Alpha Phi Omega chapters in West and Central Kentucky.\\nhttps://www.linkedin.com/in/evan-harmon-mhi-rhia/"
+  },
+  {
+    "id": "leslie_benningfield",
+    "image_exists": false,
+    "image": "./assets/BreakoutSessions/leslie_benningfield.jpg",
+    "title": "Leslie Benningfield",
+    "bio": ""
+  },
+  {
+    "id": "lois_mcwhorter",
+    "image_exists": true,
+    "image": "./assets/BreakoutSessions/lois_mcwhorter.jpg",
+    "title": "Lois McWhorter",
+    "bio": "I have been an educator, administrator, and entrepreneur in education for several years. I currently serve as the Chair of Education at the University of the Cumberlands - Hutton School of Business, where I continue to support undergraduate and graduate students. My areas of particular interest include Teaching and professional learning, career and professional development (both online and face-to-face), diversity and inclusion, international education, and community outreach. In addition to my academic and professional life, I am passionate about public service. Serving on the Board of Directors for various community and community-based organizations is a high priority."
+  },
+  {
+    "id": "mariah_knowles",
+    "image_exists": true,
+    "image": "./assets/BreakoutSessions/mariah_knowles.jpg",
+    "title": "Mariah A. Knowles",
+    "bio": "Mariah A. Knowles is a Data Science Facilitator for the American Family Insurance Data Science Institute and Data Science Hub at the University of Wisconsin-Madison, where she meets with researchers across disciplines to provide data science training and consultation. An alumna of WKU, she is a former president of the WKU ACM Student Chapter and former Department Head of the ACM XRDS magazine. She has taught at SKy since 2015 and at UW-Madison since 2018. Her teaching includes database, intro to programming, web, and ethics, and her education includes Information Studies, English Rhetoric, and Computer Sciences. She is a mixed methods researcher, with focuses on data ethics, data ethics education, and emancipatory quantitative ethnography, using data science to boost important social science work such as telling transgender and indigenous stories."
+  },
+  {
+    "id": "mark_ciampa",
+    "image_exists": true,
+    "image": "./assets/BreakoutSessions/mark_ciampa.jpg",
+    "title": "Dr. Mark Ciampa",
+    "bio": "Dr. Mark Ciampa is a Professor of Information Systems in the Gordon Ford College of Business at Western Kentucky University in Bowling Green, Kentucky. Prior to this he was an Associate Professor and served as the Director of Academic Computing at Volunteer State Community College in Gallatin, Tennessee for 20 years. Mark has worked in the IT industry as a computer consultant for businesses, government agencies, and educational institutions. He has published over 25 articles in peer-reviewed journals and books. He is also the author of 30 technology textbooks from Cengage, including Security+ Guide to Network Security Fundamentals 7e, CompTIA CySA+ Guide to Cybersecurity Analyst 2e, CWNA Guide to Wireless LANs 3e, Guide to Wireless Communications, Security Awareness: Applying Practical Security In Your World 5e, and Networking BASICS. Dr. Ciampa holds a PhD in technology management with a specialization in digital communication systems from Indiana State University and has certifications in security and healthcare. "
+  },
+  {
+    "id": "mark_leonhardt",
+    "image_exists": true,
+    "image": "./assets/BreakoutSessions/mark_leonhardt.jpg",
+    "title": "Mark Leonhardt",
+    "bio": "Mark is a retired Navy Chief, who served his final tour as a Training officer and Naval instructor for Naval Training Center Saint Louis. He went on to serve as a Plant engineer for Georgia Pacific, Weyerhaeuser, and Kingsford manufacturing. During his tenure at Weyerhaeuser, he certified as a Master Trainer and was a corporate trainer for eight years. His past eight year has been spent as a trainer for SKYCTC Work force solutions division where he creates and delivers Engineering/Technical and Leadership training for contracted companies throughout the 10 counties surrounding Bowling Green. He holds a B.S.  in Technical/Vocational Education from Valdosta University Georgia and a M.S. in Engineering and technology management from Western Kentucky University."
+  },
+  {
+    "id": "roberta_darnez",
+    "image_exists": true,
+    "image": "./assets/BreakoutSessions/roberta_darnez.jpg",
+    "title": "Roberta Darnez Pope",
+    "bio": "Roberta Darnez Pope, MSHI, RHIT, a Health Information Management (HIM) Instructor in the Public Health Department at Western Kentucky University (WKU). She is a graduate of Volunteer State Community College, Trevecca Nazarene University and the University of Illinois at Chicago School of Applied Health Sciences. Her health information management career began at Vanderbilt University Medical Center. At WKU, Pope served on the College of Health and Human Services-Public Health Research Team.  She has been an active member with AHIMA since 1996, and serves on the AHIMA Foundation of Research Network (AFRN). Her experience includes positions in academia and health information management. She assisted with the Refugee Health Summit which was hosted by the WKU Public Health Department. Her practice and research efforts include health information and informatics, population health, health disparities, and HIM education."
+  },
+  {
+    "id": "sarah_asman",
+    "image_exists": false,
+    "image": "./assets/BreakoutSessions/sarah_asman.jpg",
+    "title": "Sarah Asman",
+    "bio": ""
+  },
+  {
+    "id": "shannon_houser",
+    "image_exists": true,
+    "image": "./assets/BreakoutSessions/shannon_houser.jpg",
+    "title": "Dr. Shannon Houser",
+    "bio": "Shannon H. Houser, Ph.D., MPH, RHIA, FAHIMA, is a Professor in the Health Services Administration Department and Graduate Program in Health Informatics; an Associate Scientist in the Center for AIDS Research at the University of Alabama at Birmingham (UAB).  She is a Visiting Professor at Tsinghua University in China and participated in designing the curriculum and teaching courses in the Masters in Hospital Management. She has been actively serving in leadership roles in health information and informatics professions at both national and international levels. She is the Chair for the AHIMA Foundation of Research Network (AFRN) and is a recipient of AHIMA's Triumph Award for Research Award in 2007. Dr. Houser received her Doctoral and master's degrees in Health Behavior/Epidemiology from the School of Public Health, and Bachelor of Sciences in Health Information Management from UAB. She served as a committee member of the National Academy of Medicine Committee to Review Data Systems for Monitoring HIV/AIDS Care, and an advisor and consultant to the Global Health Projects monitoring and evaluation for Project HOPE. She is a well-published author, researcher, and participates in research studies involved in health information and informatics, healthcare management, and public health.   "
+  },
+  {
+    "id": "stephanie_thacker",
+    "image_exists": true,
+    "image": "./assets/BreakoutSessions/stephanie_thacker.jpg",
+    "title": "Dr. Stephanie Thacker",
+    "bio": "Dr. Stephanie Thacker is a native of Corbin, KY.  She joined the University of the Cumberlands in April 2014 in Graduate Advising, where she assisted graduate education students.  Since then, she has served the University in staff and administrative positions.  Dr. Thacker has been a member of the Hutton School of Business faculty since 2017, where she teaches general business, management, and marketing courses.  She also serves as a dissertation committee member for doctoral students.\\nDr. Thacker completed her graduate and undergraduate studies at the University of the Cumberlands and is currently pursuing a Master's in Information Technology from the University of the Cumberlands.  She has a background in management, marketing, and course design and development.  Her research interests lie in leadership, marketing management and strategy, organizational learning and change, and strategic decision-making. "
+  },
+  {
+    "id": "tamela_smith",
+    "image_exists": false,
+    "image": "./assets/BreakoutSessions/tamela_smith.jpg",
+    "title": "Dr. Tamela W. Smith",
+    "bio": "Dr. Smith is a Staff Emeritus from WKU, having retired in 2018 from her position as Manager of Audiovisual Services in IT.  She holds a Master's degree in Communication and a Doctorate in Educational Leadership, with an emphasis in Organizational Leadership. She has taught in the areas of Communication and Organizational Leadership, both Undergraduate and Graduate level, for WKU.\\nWith over 16 years' experience in the field of video conferencing, her research areas focused on improving communications in computer-mediated environments.  She has presented on video conferencing communications at various national and international conferences.  Dr. Smith served two terms on WKU's Board of Regents as the elected Staff Regent, and served a 3-year term on the WKU Alumni Association National Board of Directors, including one year on the Executive Committee. Since retirement she has shifted her research focus and is currently completing her first book.  "
+  },
+  {
+    "id": "vince_dinoto",
+    "image_exists": true,
+    "image": "./assets/BreakoutSessions/vince_dinoto.jpg",
+    "title": "Vince DiNoto",
+    "bio": "Vince DiNoto, is the Director of the National Center of Excellence for Geospatial Technology (GeoTech Center), co-PI of the National Center for Autonomous Technology (NCAT), Professor of Physics, Astronomy, and Geospatial Technology, and Dean of College and Systemic Initiatives at Jefferson Community and Technical College. He received his degrees from Indiana State University in Terre Haute and has additional graduate hours from Indiana University Southeast and Ball State University. He has designed numerous courses over his career, most recently a Python Mapping course and a Web Mapping course. He is a dynamic grant designer, serving as PI, co-PI, and director of numerous projects and National Centers in Advanced Technology. He has mentored numerous faculty members in the AACC MentorLinks program and MentorConnects."
+  }
+]
