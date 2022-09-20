@@ -1,71 +1,65 @@
-import React from 'react'
+import React, {useState} from 'react'
 import './Keynote.css'
+import './SpeakerBios.css'
 import KeynoteData from './data/Keynote.json'
-// import {motion} from 'framer-motion'
-// import { useRef, useEffect, useState } from 'react'
-// import ReactDOM from 'react-dom';
-import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
-import { Carousel } from 'react-responsive-carousel';
+
+const SpeakerBioModal = (bio) => {
+  return (
+    <div className='speaker-bio'>
+      <p>{bio}</p>
+    </div>
+    
+  );
+}
+
 
 function DisplayKeynoteSpeakers() {
-  // const [carouselWidth, setCarouselWidth] = useState(0);
-  // const carousel = useRef();
 
-  // useEffect(() => {
-  //   setCarouselWidth(carousel.current.scrollWidth - carousel.current.offsetWidth);
-  // }, []);
+  const [showBio, setShowBio] = useState(false)
+  const handleShowBio = () => setShowBio(!showBio)
 
   const KeynoteSpeakers = KeynoteData.map((keynote_speaker) =>
-  //   <motion.div key={keynote_speaker.id} className="keynote-speaker">
 
-  //     {keynote_speaker.image_exists ? 
-  //       <div className="keynote-image-container">
-  //         <img className="keynote-image" src={require(""+keynote_speaker.image+"")} alt={keynote_speaker.title} />
-  //       </div>
-  //       : 
-  //       ""
-  //     }
-  //     <div className="keynote-bio">
-  //       <h3>{keynote_speaker.title}</h3>
-  //       <p className='text-block'>{keynote_speaker.bio}</p>
-  //     </div>
-      
-
-  //   </motion.div>
-
-    <div key={keynote_speaker.id} id={keynote_speaker.id} className="keynote-speaker">
+    <div className='speaker-container' key={keynote_speaker.id} id={keynote_speaker.id}>
       {keynote_speaker.image_exists ? 
-        <div className="keynote-image-container">
-          <img className="keynote-image" src={require(""+keynote_speaker.image+"")} alt={keynote_speaker.title} />
+        <div className='speaker-image-container'>
+          <img className='speaker-image' src={require(""+keynote_speaker.image+"")} alt={keynote_speaker.title} />
         </div>
         : 
         ""
       }
 
-      <div className="keynote-bio">
-        <h3>{keynote_speaker.title}</h3>
-        <p className="text-block">{keynote_speaker.bio}</p>
+      <div>
+        <h3 className='speaker-title'>{keynote_speaker.title}</h3>
+        
+        <div>
+          <button onClick={e=> {handleShowBio()}} className="btn-speaker-bio">
+            Read Bio
+          </button>
+          
+          <div className={showBio ? 'speaker-bio-show' : 'speaker-bio-hidden'}>
+            {SpeakerBioModal(keynote_speaker.bio)}
+          </div>
+
+
+          
+        </div>
       </div>
     </div>
   );
 
   return (
-    // <motion.div ref={carousel} className="outer-carousel" whileTap={{cursor: "grabbing"}}>
-    //   <motion.div drag="x" dragConstraints={{right: 0, left: -carouselWidth}} className="inner-carousel">
-    //     {KeynoteSpeakers}
-    //   </motion.div>
-    // </motion.div>
-    <Carousel className='keynote-carousel'>
+    <div>
       {KeynoteSpeakers}
-    </Carousel>
+    </div>
   );
 }
 
 function Keynote() {
   return (
-    <div id="keynote" className='full-screen-container keynote-container'>
-        <div className="centered-full-screen-content keynote-content-shell">
-            <div className="keynote-content container">
+    <div id="keynote">
+        <div>
+            <div className='container'>
                 <h2>Keynote Speakers</h2>
 
                 {DisplayKeynoteSpeakers()}

@@ -100,7 +100,8 @@
 
 }
 
-.nav-button:hover {
+.nav-button:hover,
+.nav-button:focus {
     outline-offset: 0px;
     box-shadow:
         2.7px 2.7px 2.5px rgba(0, 0, 0, 0.02),
