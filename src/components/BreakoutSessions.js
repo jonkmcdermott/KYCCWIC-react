@@ -1,10 +1,12 @@
 import React, { useState } from 'react'
 import {FaChevronDown, FaChevronUp, FaTimes} from 'react-icons/fa'
 import './SpeakerCard.css'
+import placeholder from './assets/placeholder.jpg'
+
 
 const url_header = "./assets/BreakoutSessions/"
 
-function DisplaySpeakerCard(speaker_id, speaker_title, speaker_bio) {
+function DisplaySpeakerCard(speaker_id, speaker_title, speaker_bio, image_exists) {
   const [isCardVisible, setIsCardVisible] = useState(false);
   const changeIsCardVisible = () => setIsCardVisible(!isCardVisible)
 
@@ -12,7 +14,12 @@ function DisplaySpeakerCard(speaker_id, speaker_title, speaker_bio) {
     <div className="speaker-card" key={speaker_id} id={speaker_id}>
 
       <div className="speaker-image-container">
-        <img className="speaker-image" src={require(url_header + speaker_id + ".jpg")}/>
+        {image_exists ?
+          <img className="speaker-image" src={require(url_header + speaker_id + ".jpg")} alt={speaker_title}/>
+        :
+        <img className="speaker-image" src={placeholder} alt='Placeholder for missing speaker'/>
+        }
+        
       </div>
 
       <div className="speaker-content-container">
@@ -25,9 +32,11 @@ function DisplaySpeakerCard(speaker_id, speaker_title, speaker_bio) {
         </div>
 
         <div className={isCardVisible ? "speaker-bio-container" : "speaker-bio-container speaker-content-hidden"}>
-          <p className='speaker-bio-text'>{speaker_bio}</p>
-          <div className='card-close-div'>
-            <FaTimes onClick={changeIsCardVisible} className='speaker-icon close-speaker-card' />
+          <div className={isCardVisible ? "speaker-modal-container" : "speaker-modal-container speaker-content-hidden"}>
+            <p className='speaker-bio-text'>{speaker_bio}</p>
+            <div className='card-close-div'>
+              <FaTimes onClick={changeIsCardVisible} className='speaker-icon close-speaker-card' />
+            </div>
           </div>
         </div>
       </div>
@@ -46,19 +55,22 @@ function BreakoutSessions() {
         {DisplaySpeakerCard(
           'andy_mills',
           'Andy Mills',
-          'I exist.'
+          'I exist.',
+          true
         )}
 
         {DisplaySpeakerCard(
           'art_mcfadden',
           'Art McFadden',
-          'I exist.'
+          'I exist.',
+          true
         )}
 
         {DisplaySpeakerCard(
           'casey_wilhelm',
           'Casey Wilhelm',
-          'I exist.'
+          'I exist.',
+          true
         )}
 
         
@@ -66,7 +78,8 @@ function BreakoutSessions() {
         {DisplaySpeakerCard(
           'lois_mcwhorter',
           'Lois McWhorter',
-          'I exist.'
+          'I exist.',
+          true
         )}
 
 
