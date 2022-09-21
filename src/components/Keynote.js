@@ -48,6 +48,18 @@ function Keynote() {
   return (
     <div className='container' id='keynote'>
       <h1>Keynote Speakers</h1>
+
+      <div className="speaker-cards-layout">
+
+        {DisplaySpeakerCard(
+          'jennifer_holmes',
+          'Jennifer Holmes',
+          '',
+          true
+        )}
+
+      </div>
+
     </div>
   )
 }

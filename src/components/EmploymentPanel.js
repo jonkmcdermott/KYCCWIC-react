@@ -48,6 +48,12 @@ function EmploymentPanel() {
   return (
     <div className='container' id='employment'>
       <h1>Employment Panel Speakers</h1>
+
+      <div className="speaker-cards-layout">
+
+
+      </div>
+      
     </div>
   )
 }

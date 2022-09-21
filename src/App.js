@@ -30,7 +30,7 @@ function App() {
       <Agenda />
 
 
-      <Keynote />
+      {/* <Keynote /> */}
       <BreakoutSessions />
       <EmploymentPanel />
 
