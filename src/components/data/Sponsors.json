@@ -18,12 +18,30 @@
     },
 
     {
+        "id" : "german",
+        "name" : "German American Bank",
+        "sponsor_level" : "Platinum",
+        "sponsor_class" : "badge-platinum",
+        "website" : "https://germanamerican.com/personal/",
+        "logo" : "./assets/Sponsors/GermanAmerican.jpg"
+    },
+
+    {
         "id" : "mcgrawhill",
         "name" : "McGraw Hill",
         "sponsor_level" : "Platinum",
         "sponsor_class" : "badge-platinum",
         "website" : "https://www.mheducation.com",
         "logo" : "./assets/Sponsors/MH.jpg"
+    },
+
+    {
+        "id" : "rehab",
+        "name" : "RehabBoost",
+        "sponsor_level" : "Gold",
+        "sponsor_class" : "badge-gold",
+        "website" : "https://rehabboost.com/",
+        "logo" : "./assets/Sponsors/RehabBoost.png"
     },
 
     {

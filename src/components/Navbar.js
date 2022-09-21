@@ -44,7 +44,7 @@ const Navbar = () => {
         </div>
         
         <ul className={navClick ? "nav-menu active" : "nav-menu"}>
-          <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="#breakout">Breakout Speakers</a></li>
+          {/* <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="#breakout">Breakout Speakers</a></li> */}
           {/* <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="/">Home</a></li> */}
           <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="#about">About</a></li>
           {/* <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="#event-committee">Event Committee</a></li> */}
