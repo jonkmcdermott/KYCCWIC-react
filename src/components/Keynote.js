@@ -1,70 +1,33 @@
-import React, {useState} from 'react'
-import './Keynote.css'
-import './SpeakerBios.css'
-import KeynoteData from './data/Keynote.json'
+import React, { useState } from 'react'
+import {FaChevronDown, FaChevronUp, FaTimes} from 'react-icons/fa'
+import './SpeakerCard.css'
 
-const SpeakerBioModal = (bio) => {
+const url_header = "./assets/Keynote/"
+
+function DisplaySpeakerCard(speaker_id, speaker_title, speaker_bio) {
+  const [isCardVisible, setIsCardVisible] = useState(false);
+  const changeIsCardVisible = () => setIsCardVisible(!isCardVisible)
+
   return (
-    <div className='speaker-bio'>
-      <p>{bio}</p>
-    </div>
-    
-  );
-}
+    <div className="speaker-card" key={speaker_id} id={speaker_id}>
 
-
-function DisplayKeynoteSpeakers() {
-
-  const [showBio, setShowBio] = useState(false)
-  const handleShowBio = () => setShowBio(!showBio)
-
-  const KeynoteSpeakers = KeynoteData.map((keynote_speaker) =>
-
-    <div className='speaker-container' key={keynote_speaker.id} id={keynote_speaker.id}>
-      {keynote_speaker.image_exists ? 
-        <div className='speaker-image-container'>
-          <img className='speaker-image' src={require(""+keynote_speaker.image+"")} alt={keynote_speaker.title} />
-        </div>
-        : 
-        ""
-      }
-
-      <div>
-        <h3 className='speaker-title'>{keynote_speaker.title}</h3>
-        
-        <div>
-          <button onClick={e=> {handleShowBio()}} className="btn-speaker-bio">
-            Read Bio
-          </button>
-          
-          <div className={showBio ? 'speaker-bio-show' : 'speaker-bio-hidden'}>
-            {SpeakerBioModal(keynote_speaker.bio)}
-          </div>
-
-
-          
-        </div>
+      <div className="speaker-image-container">
+        <img src={require(url_header + speaker_id + ".jpg")}/>
       </div>
-    </div>
-  );
 
-  return (
-    <div>
-      {KeynoteSpeakers}
+      <div className="speaker-content-container">
+        <p className='speaker-title'>{speaker_title}</p>
+        <p className='speaker-bio-text'>{speaker_bio}</p>
+      </div>
+
     </div>
   );
 }
 
 function Keynote() {
   return (
-    <div id="keynote">
-        <div>
-            <div className='container'>
-                <h2>Keynote Speakers</h2>
-
-                {DisplayKeynoteSpeakers()}
-            </div>
-        </div>
+    <div className='container' id='keynote'>
+      <h1>Keynote Speakers</h1>
     </div>
   )
 }

@@ -21,6 +21,8 @@
 
   --skyctc-blue: hsl(207, 100%, 25%);
   --dark-blue: hsl(214, 97%, 13%);
+  --semi-transparent-blue: hsl(214, 97%, 13%, .8);
+  --transparent-blue: hsl(214, 97%, 13%, .5);
   --pathfinder-yellow: hsl(42, 84%, 49%);
   --party-blue: hsl(180, 91%, 56%);
   --bright-yellow: hsl(49, 100%, 50%);
