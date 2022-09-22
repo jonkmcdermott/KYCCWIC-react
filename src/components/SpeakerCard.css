@@ -50,7 +50,7 @@
 }
 
 .speaker-bio-container {
-    max-height: 2000px;
+    max-height: fit-content;
     
 }
 
@@ -61,6 +61,17 @@
 
 /* Large Screens */
 @media screen and (min-width: 1080px) {
+
+    #keynote h1,
+    #breakout h1,
+    #employment h1 {
+        text-align: center;
+        color: white;
+        background-color: var(--dark-blue);
+        padding: 1rem 0rem;
+    }
+
+
     .speaker-card {
         width: 25%;
     }
@@ -118,11 +129,3 @@
 
     }
 }   
-
-
-/* Small screens */
-@media screen and (max-width: 1080px) {
-    .speaker-bio-container {
-        transition: max-height 500ms ease;
-    }
-}

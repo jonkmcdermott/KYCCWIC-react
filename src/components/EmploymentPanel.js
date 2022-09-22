@@ -51,6 +51,40 @@ function EmploymentPanel() {
 
       <div className="speaker-cards-layout">
 
+        {DisplaySpeakerCard(
+          'robin_amonett',
+          'Robin Amonett',
+          'More info coming soon!',
+          false
+        )} 
+
+        {DisplaySpeakerCard(
+          'monica_duvall',
+          'Monica Duvall',
+          'Monica earned her marketing degree from WKU\'s Gordon Ford College of Business in 2005 and her Master\'s in Organizational Leadership in 2019. Previously, she served as Marketing Manager for Reinhart Food Service and Southern Foods in Bowling Green, KY from 2007-2016. In her role as the GFCB Director of Student Success, Monica oversees the GFCB Student Success Team/Initiatives, including GFCB academic advising, Business LLC, Recruitment/Retention, and Career Development.  She also leads the GFCB internship program and PEAK program, both of which ensure our students are prepared for entry into the professional business environment. \n She is an active board member of Junior Achievement of South Central Kentucky and was honored to receive the National Junior Achievement Gold Leadership Award in 2021. Monica also serves on the Housing Corporation Board for the Chi Theta chapter of Chi Omega Sorority at WKU, and is a past Chi Omega advisor and WKU Randy Bracey Outstanding Advisor award recipient, 2017.  \n Personally, she is married to Brian and they have two children, Emory and Callie. Monica enjoys exercising, golfing, traveling, watching her girls play sports, and spending time with her family.',
+          true
+        )} 
+
+        {DisplaySpeakerCard(
+          'allie_lee',
+          'Allie Lee',
+          'Allie Lee is a Human Resources Administrator at Scotty\'s Contracting & Stone in Bowling Green, KY and has been in human resources for a year now. Allie earned her Bachelor of Science in Accounting from Western Kentucky University in 2017 and a Master of Business Administration from the University of Southern Indiana in 2021. She started her career at Scotty\'s as an intern in the accounting department while attending WKU and eventually went full-time with Scotty\'s in their Accounts Receivable Department. She loves her new job in Human Resources and has enjoyed learning a new side to the business. In her spare time you will catch her either chasing after her daughter or doing yoga at Flō House Yoga.',
+          true
+        )} 
+
+        {DisplaySpeakerCard(
+          'jessica_nations',
+          'Jessica Nations',
+          'More info coming soon!',
+          true
+        )} 
+
+        {DisplaySpeakerCard(
+          'tamara_storm',
+          'Tamara Storm',
+          'Tamara Strom, MSA, is an Instructor in the Department of Management. Tamara earned her Masters of Science in International Business from Central Michigan University. She has held numerous leadership positions in Manufacturing/Production, Supply Chain Management, and Fulfillment/Distribution. Her industrial experience includes management roles at Amazon, B/E Aerospace, BAE Systems and General Motors. Tamara has successful experience in product launches, lean system implementations, supplier management and management training/development. Her husband, Matt, works for General Motors as a Sr. Process Engineer, and she has twin sons who attend Greenwood High School.',
+          true
+        )} 
 
       </div>
       

@@ -98,7 +98,7 @@ function BreakoutSessions() {
           'cindy_hines',
           'Cindy Hines, SHRM-SCP, SPHR, MBA',
           'Cindy Hines is co-owner and COO of C & S Business Group and the Vice President of Talent Development at Leadership Strategies Group. Her extensive experience as a Human Resources and Organizational Development leader includes the fast-moving consumer goods industry, banking, manufacturing and healthcare. She has domestic multi-state and international experience focused on shaping the HR agenda that supports key organizational goals.  She has experience collaborating with manufacturing facilities as well as corporate locations. \n Cindy has overseen the talent acquisition and talent management strategies as well as several corporate and sales department restructurings and Mergers and Acquisitions.  She has led assessment centers across the US that resulted in quality hires and increased retention through selectively hiring and implementing an onboarding process that doesn\'t stop after 90 days.  Her experience includes culminating HQ offices while executing layoffs and location wind down, while keeping respect and concern for the employees as her primary driver. \n She has an MBA from Western Kentucky University and is an adjunct faculty member in the Management Department.  Cindy has authored a chapter in the professional book “What\'s Next in Human Resources” and is also published in “Cultivating Culture”. \n Cindy\'s primary focus is workplace investigations, recruiting hard-to-fill positions, employee surveys, HR compliance including Affirmative Action Plans, and M&A\'s.   Cindy\'s passion is helping people and organizations to reach their fullest potential. She particularly likes to connect top talent to premier companies.',
-          false
+          true
         )}
 
         {DisplaySpeakerCard(
@@ -175,7 +175,7 @@ function BreakoutSessions() {
           'stephanie_thacker',
           'Dr. Stephanie Thacker',
           'Dr. Stephanie Thacker is a native of Corbin, KY. She joined the University of the Cumberlands in April 2014 in Graduate Advising, where she assisted graduate education students. Since then, she has served the University in staff and administrative positions. Dr. Thacker has been a member of the Hutton School of Business faculty since 2017, where she teaches general business, management, and marketing courses. She also serves as a dissertation committee member for doctoral students. \n Dr. Thacker completed her graduate and undergraduate studies at the University of the Cumberlands and is currently pursuing a Master\'s in Information Technology from the University of the Cumberlands.  She has a background in management, marketing, and course design and development.  Her research interests lie in leadership, marketing management and strategy, organizational learning and change, and strategic decision-making.',
-          false
+          true
         )}
 
         {DisplaySpeakerCard(

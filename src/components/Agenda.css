@@ -67,8 +67,8 @@
 @media screen and (min-width: 1080px) {
     .agenda-container {
         background-color: grey;
-        background-image: url(./assets/SplashImages/sarah-ap.jpg);
-        background-image: radial-gradient(circle, hsl(207, 100%, 25%, .5) 0%, hsl(207, 100%, 25%, .6) 60%, hsl(207, 100%, 25%, .7) 70%, hsl(207, 100%, 25%, .8) 80%, hsl(207, 100%, 25%, .9) 90%), url(./assets/SplashImages/classroom-projector.jpg);
+        background-image: url(./assets/SplashImages/corvette-museum-white.jpg);
+        background-image: radial-gradient(circle, hsl(207, 100%, 25%, .25) 10%, hsl(207, 100%, 25%, .3) 40%, hsl(207, 100%, 25%, .5) 55%, hsl(207, 100%, 25%, .6) 65%, hsl(207, 100%, 25%, .75) 80%), url(./assets/SplashImages/corvette-museum-white.jpg);
         min-height: 20rem;
         background-attachment: fixed;
         background-position: center;
