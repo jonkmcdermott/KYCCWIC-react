@@ -44,13 +44,14 @@ const Navbar = () => {
         </div>
         
         <ul className={navClick ? "nav-menu active" : "nav-menu"}>
-          {/* <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="#breakout">Breakout Speakers</a></li> */}
+          
           {/* <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="/">Home</a></li> */}
           <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="#about">About</a></li>
           {/* <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="#event-committee">Event Committee</a></li> */}
           <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="#sponsors">Sponsors</a></li>
           {/* <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="#speakers">Speakers</a></li> */}
           <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="#agenda">Agenda</a></li>
+          <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="#keynote">Speakers</a></li>
           <li onClick={handleNavClick} className="nav-item"><a className='nav-button' href="#register">Register</a></li>
         </ul>
       </nav>
