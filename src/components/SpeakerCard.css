@@ -66,9 +66,10 @@
     }
     
     .speaker-title {
-        font-size: 1.5rem;
+        font-size: 1.45rem;
         font-weight: 700;
         text-align: center;
+        height: 4.25rem;
     }
 
     .show-speaker-info,
@@ -98,7 +99,7 @@
     }
 
     .speaker-modal-container {
-        width: 45rem;
+        width: 80rem;
         
         /* min-height: 15rem; */
         max-height: 85vh;
