@@ -1,10 +1,20 @@
 #register h1 {
+    color: var(--dark-blue);
     text-align: center;
     text-shadow: var(--gentle-box-shadow);
     padding: 1.25rem;
-    border: var(--pathfinder-yellow) .25rem solid;
+    border: var(--dark-blue) .25rem solid;
     border-radius: .75rem;
     box-shadow: var(--gentle-box-shadow);
     background-color: transparent;
     margin-bottom: 2rem;
+    line-height: 3.5rem;
+    
+}
+
+
+@media screen and (min-width: 1080px) {
+    #register h1 {
+        line-height: 5.5rem;
+    }
 }

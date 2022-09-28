@@ -52,12 +52,7 @@ function BreakoutSessions() {
       <h1>Breakout Session Speakers</h1>
 
       <div className="speaker-cards-layout">
-        {DisplaySpeakerCard(
-          'sara_asman',
-          'Sara Asman',
-          'Sarah McQueary is a Senior Software Engineer with over a decade of experience programming solutions that solve client and business needs. Sarah currently focuses on developing an Application Programming Interface (API) with Degreed, a Learning Experience Platform (LXP). She graduated from the KCTCS 2+2 program, several years ago, in Computer Information Technology (CIT). She completed her Bachelor of Science in CIT at Western KY University, and then went on to obtain her Master of Science in Cybersecurity from Liberty University. Currently, Sarah is working towards her PhD in Computer Information Technology at the University of the Cumberlands. As a strong believer in the power of programming to transform lives, Sarah is excited to discuss the craft and how to keep it principled. She also enjoys spending time with her husband and two children, serving in her local church, painting, karaoke, and Crossfit.',
-          true
-        )}
+
 
         {DisplaySpeakerCard(
           'leslie_benningfield',
@@ -91,7 +86,7 @@ function BreakoutSessions() {
           'evan_harmon',
           'Evan Harmon',
           'Evan T. Harmon, MHI, RHIA, is the Remote Patient Monitoring (RPM) System Leader for Baptist Health Kentucky, responsible for RPM oversight, expansion, and strategy development. He previously served as Baptist\'s corporate IT manager providing support and direction over health information management IT applications, including the full suite of Epic HIM and 3M applications. He also served as a project manager, leading HIM integrated areas such as legal medical record, eMPI conversion, patient confidentiality, and ICD-10 for Baptist\'s nine facilities and 300+ outpatient locations. Evan has served in numerous board and committee positions, including president for the Kentucky Health Information Management Association (KHIMA) and River Valley Health Information Management Association (RvHIMA). He is currently Section Chair (I-1) over Alpha Phi Omega chapters in West and Central Kentucky.  \n \n https://www.linkedin.com/in/evan-harmon-mhi-rhia/',
-          false
+          true
         )}
 
         {DisplaySpeakerCard(
@@ -135,6 +130,13 @@ function BreakoutSessions() {
           'I have always had an interest in technology and originally had planned to be in a career related to my bachelor\'s Degree. Upon graduation, I joined the Franklin Police Department.  After a few years of working patrol, a position opened in the Franklin Police Departments Investigations Unit. I was assigned to general investigations, and specialized in crimes involving technology, sexual offenses, and crimes against children.  As crimes involving technology became more common, I saw the need for more formal education in the IT field. I attended Bowling Green Technical College (now Southcentral Kentucky Community and Technical College - SKYCTC), a part of the Kentucky Community & Technical College System. I earned an Associates of Applied Science in Computer and Information Technology, specializing in Network Technologies.  I was fortunate enough to be asked to be on the United States Secret Service Electronic Crimes Task Force. They are given advanced training at the National Computer Forensic Institute in Hover, Alabama. My work with the ECTC was one of the highlights of my career.  I was promoted to Captain, Assistant Chief of Police, a few years before my retirement. That ended my days of investigations. Looking back at my career, I know the most import thing I did was help victims, particularly children, get the justice they deserved.  After retirement, I became an adjunct instructor with SKYCTC which lead to my current full-time position teaching networking and security related classes. These experiences solidified my love and appreciation for SKYCTC as a fantastic place to learn, work, and connect.',
           true
         )}
+
+        {DisplaySpeakerCard(
+          'sara_asman',
+          'Sarah McQueary',
+          'Sarah McQueary is a Senior Software Engineer with over a decade of experience programming solutions that solve client and business needs. Sarah currently focuses on developing an Application Programming Interface (API) with Degreed, a Learning Experience Platform (LXP). She graduated from the KCTCS 2+2 program, several years ago, in Computer Information Technology (CIT). She completed her Bachelor of Science in CIT at Western KY University, and then went on to obtain her Master of Science in Cybersecurity from Liberty University. Currently, Sarah is working towards her PhD in Computer Information Technology at the University of the Cumberlands. As a strong believer in the power of programming to transform lives, Sarah is excited to discuss the craft and how to keep it principled. She also enjoys spending time with her husband and two children, serving in her local church, painting, karaoke, and Crossfit.',
+          true
+        )}        
 
         {DisplaySpeakerCard(
           'lois_mcwhorter',

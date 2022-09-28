@@ -54,6 +54,16 @@
     },
 
     {
+        "id" : "skyctc",
+        "name" : "Southcentral Kentucky Community & Technical College",
+        "sponsor_level" : "Platinum",
+        "sponsor_class" : "badge-platinum",
+        "website" : "https://southcentral.kctcs.edu/",
+        "logo" : "./assets/Sponsors/SKYCTC.png"
+    },
+
+
+    {
         "id" : "wku",
         "name" : "WKU Gorden Ford College of Business",
         "sponsor_level" : "Gold",

@@ -52,7 +52,7 @@ const Navbar = () => {
           {/* <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="#speakers">Speakers</a></li> */}
           <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="#agenda">Agenda</a></li>
           <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="#keynote">Speakers</a></li>
-          <li onClick={handleNavClick} className="nav-item"><a className='nav-button' href="#register">Register</a></li>
+          <li onClick={handleNavClick} className="nav-item"><a className='nav-button' href='https://www.surveymonkey.com/r/THWXYC8' target='_blank' rel="noreferrer">Register</a></li>
         </ul>
       </nav>
     </div>

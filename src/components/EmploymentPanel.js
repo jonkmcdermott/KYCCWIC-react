@@ -54,7 +54,7 @@ function EmploymentPanel() {
         {DisplaySpeakerCard(
           'robin_amonett',
           'Robin Amonett',
-          'More info coming soon!',
+          'Robin Amonett is the HR Manager at Performance FoodService (PFS) located in South Industrial Park in Bowling Green.  PFS is a leading food distributor and supplier providing quality products, innovative technology and custom solutions to culinary partners.  PFS delivers over 200,000 products to more than 125,000 customers nationwide.  Nationwide, PFS employees over 18,000 associates and locally employees nearly 200 associates. \n Robin is currently the Board Chair of the Training Consortium of South-Central Kentucky.  She sits on South Central Workforce Development Board.  She routinely volunteers with the Bowling Green Area Chamber of Commerce and Junior Achievement.',
           false
         )} 
 
