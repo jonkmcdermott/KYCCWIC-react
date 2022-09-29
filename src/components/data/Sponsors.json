@@ -20,8 +20,8 @@
     {
         "id" : "german",
         "name" : "German American Bank",
-        "sponsor_level" : "Platinum",
-        "sponsor_class" : "badge-platinum",
+        "sponsor_level" : "Keynote",
+        "sponsor_class" : "badge-blue",
         "website" : "https://germanamerican.com/personal/",
         "logo" : "./assets/Sponsors/GermanAmerican.jpg"
     },
@@ -38,8 +38,8 @@
     {
         "id" : "rehab",
         "name" : "RehabBoost",
-        "sponsor_level" : "Gold",
-        "sponsor_class" : "badge-gold",
+        "sponsor_level" : "Keynote",
+        "sponsor_class" : "badge-blue",
         "website" : "https://rehabboost.com/",
         "logo" : "./assets/Sponsors/RehabBoost.png"
     },

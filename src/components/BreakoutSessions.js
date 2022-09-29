@@ -63,7 +63,7 @@ function BreakoutSessions() {
 
         {DisplaySpeakerCard(
           'mark_ciampa',
-          'Mark Ciampa',
+          'Dr. Mark Ciampa',
           'Dr. Mark Ciampa is a Professor of Information Systems in the Gordon Ford College of Business at Western Kentucky University in Bowling Green, Kentucky. Prior to this he was an Associate Professor and served as the Director of Academic Computing at Volunteer State Community College in Gallatin, Tennessee for 20 years. Mark has worked in the IT industry as a computer consultant for businesses, government agencies, and educational institutions. He has published over 25 articles in peer-reviewed journals and books. He is also the author of 30 technology textbooks from Cengage, including Security+ Guide to Network Security Fundamentals 7e, CompTIA CySA+ Guide to Cybersecurity Analyst 2e, CWNA Guide to Wireless LANs 3e, Guide to Wireless Communications, Security Awareness: Applying Practical Security In Your World 5e, and Networking BASICS. Dr. Ciampa holds a PhD in technology management with a specialization in digital communication systems from Indiana State University and has certifications in security and healthcare.',
           true
         )}
