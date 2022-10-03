@@ -81,7 +81,7 @@ function EmploymentPanel() {
 
         {DisplaySpeakerCard(
           'tamara_storm',
-          'Tamara Storm',
+          'Tamara Strom',
           'Tamara Strom, MSA, is an Instructor in the Department of Management. Tamara earned her Masters of Science in International Business from Central Michigan University. She has held numerous leadership positions in Manufacturing/Production, Supply Chain Management, and Fulfillment/Distribution. Her industrial experience includes management roles at Amazon, B/E Aerospace, BAE Systems and General Motors. Tamara has successful experience in product launches, lean system implementations, supplier management and management training/development. Her husband, Matt, works for General Motors as a Sr. Process Engineer, and she has twin sons who attend Greenwood High School.',
           true
         )} 
