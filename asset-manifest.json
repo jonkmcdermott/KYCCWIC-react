@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4528e743.css",
-    "main.js": "/static/js/main.5cbe6122.js",
+    "main.js": "/static/js/main.419cb752.js",
     "static/js/787.b062fc82.chunk.js": "/static/js/787.b062fc82.chunk.js",
     "static/media/corvette-museum-white.jpg": "/static/media/corvette-museum-white.a924a14b4379090414ee.jpg",
     "static/media/marge-laptop-sunny.jpg": "/static/media/marge-laptop-sunny.3989de03c470fbf229be.jpg",
@@ -36,10 +36,10 @@
     "static/media/tammy_inscoe.jpg": "/static/media/tammy_inscoe.fd6f692a0bf6483c855d.jpg",
     "static/media/jessica_nations.jpg": "/static/media/jessica_nations.692d3f753cd8d7be5912.jpg",
     "static/media/renee_white.jpg": "/static/media/renee_white.e023c9638b64c1b265f5.jpg",
+    "static/media/Cengage.png": "/static/media/Cengage.d31e0653bdb531a15bda.png",
     "static/media/GermanAmerican.jpg": "/static/media/GermanAmerican.5585cf993f5c2c43ddff.jpg",
     "static/media/WKU.png": "/static/media/WKU.f1f5457719ee56753260.png",
     "static/media/andy_mills.jpg": "/static/media/andy_mills.f519fe131b533c39b5bc.jpg",
-    "static/media/leslie_benningfield.jpg": "/static/media/leslie_benningfield.32aa864fdda8bcbd1966.jpg",
     "static/media/cindy_hines.jpg": "/static/media/cindy_hines.9c18fc6373149210f1c2.jpg",
     "static/media/coni_waggoner.jpg": "/static/media/coni_waggoner.877a9c8572a9455377f3.jpg",
     "static/media/tamela_smith.jpg": "/static/media/tamela_smith.36847dac341c3b6a8755.jpg",
@@ -50,6 +50,7 @@
     "static/media/Coretech.png": "/static/media/Coretech.c51cf2560071846c28f0.png",
     "static/media/rick_nord.jpg": "/static/media/rick_nord.61d6bdf4262b0cd1035f.jpg",
     "static/media/mark_leonhardt.jpg": "/static/media/mark_leonhardt.d48cb3a4c461dd0611ff.jpg",
+    "static/media/leslie_benningfield.jpg": "/static/media/leslie_benningfield.657e830074948f9a19b4.jpg",
     "static/media/casey_wilhelm.jpg": "/static/media/casey_wilhelm.807dffa8c9dcf56064be.jpg",
     "static/media/april_harris.jpg": "/static/media/april_harris.751141f3ec89f59ef63a.jpg",
     "static/media/SKYCTC.png": "/static/media/SKYCTC.b266d3be71a0c618461d.png",
@@ -68,11 +69,11 @@
     "static/media/logo.svg": "/static/media/logo.b3f0bcaf81510ffb49d3.svg",
     "index.html": "/index.html",
     "main.4528e743.css.map": "/static/css/main.4528e743.css.map",
-    "main.5cbe6122.js.map": "/static/js/main.5cbe6122.js.map",
+    "main.419cb752.js.map": "/static/js/main.419cb752.js.map",
     "787.b062fc82.chunk.js.map": "/static/js/787.b062fc82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4528e743.css",
-    "static/js/main.5cbe6122.js"
+    "static/js/main.419cb752.js"
   ]
 }
