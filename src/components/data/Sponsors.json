@@ -1,5 +1,14 @@
 [
     {
+        "id" : "cengage",
+        "name" : "Cengage",
+        "sponsor_level" : "Gold",
+        "sponsor_class" : "badge-gold",
+        "website" : "https://www.cengage.com",
+        "logo" : "./assets/Sponsors/Cengage.png"
+    },
+
+    {
         "id" : "coretech",
         "name" : "CoreTech",
         "sponsor_level" : "Silver",

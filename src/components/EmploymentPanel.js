@@ -75,7 +75,7 @@ function EmploymentPanel() {
         {DisplaySpeakerCard(
           'jessica_nations',
           'Jessica Nations',
-          'More info coming soon!',
+          'Jessica Nations is a Southern Indiana native who moved to Kentucky in pursuit of a degree in Corporate and Organizational Communication & Business Administration. After completing her Bachelor\'s degree from Western Kentucky University, Jessica worked as a human resources generalist before specializing in talent acquisition and recruiting. After more than 10 years in the industry, Jessica now leads Talent Acquisition for growing after-market automotive manufacturer, Holley Performance Products, Inc. Jessica serves on the Southern Kentucky Society of Human Resource Management (SKY-SHRM) board of directors and is passionate about collaborating with industry professionals to bring top diverse talent to the South-Central Kentucky region. Jessica lives in Bowling Green, KY with her husband, Ross and two sons, Ryder and Beckett. Together they enjoy bike riding, camping and spending time at Barren River Lake.',
           true
         )} 
 
