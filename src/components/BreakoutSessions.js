@@ -103,12 +103,13 @@ function BreakoutSessions() {
           true
         )}
         
-        {DisplaySpeakerCard(
+        {/* Speaker backed out. */}
+        {/* {DisplaySpeakerCard(
           'mariah_knowles',
           'Mariah A. Knowles',
           'Mariah A. Knowles is a Data Science Facilitator for the American Family Insurance Data Science Institute and Data Science Hub at the University of Wisconsin-Madison, where she meets with researchers across disciplines to provide data science training and consultation. An alumna of WKU, she is a former president of the WKU ACM Student Chapter and former Department Head of the ACM XRDS magazine. She has taught at SKy since 2015 and at UW-Madison since 2018. Her teaching includes database, intro to programming, web, and ethics, and her education includes Information Studies, English Rhetoric, and Computer Sciences. She is a mixed methods researcher, with focuses on data ethics, data ethics education, and emancipatory quantitative ethnography, using data science to boost important social science work such as telling transgender and indigenous stories.',
           true
-        )}
+        )} */}
 
         {DisplaySpeakerCard(
           'mark_leonhardt',
