@@ -14,6 +14,7 @@ import Register from './components/Register';
 import BreakoutSessions from './components/BreakoutSessions';
 import EmploymentPanel from './components/EmploymentPanel';
 import Keynote from './components/Keynote';
+import Testimonial from './components/Testimonial';
 
 
 
@@ -23,6 +24,7 @@ function App() {
     <div className="App">
       <Navbar />
       <LoadScreen />
+      <Testimonial />
       <ThemeHeading />
       <About />
       <EventCommittee />
