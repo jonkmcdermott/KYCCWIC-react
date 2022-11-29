@@ -2,6 +2,7 @@ import React from 'react'
 import './Agenda.css'
 import ThursdayEventsData from './data/ThursdayEvents.json'
 import FridayEventsData from './data/FridayEvents.json'
+import AgendaPdf from './assets/WIC2023Program.pdf'
 
 function DisplayAgendaItems(EventDayData) {
     const AgendaItems = EventDayData.map((item) =>
@@ -28,6 +29,11 @@ function Agenda() {
         
       <div className="container">
         <h1 className='section-heading'>Agenda</h1>
+
+        <div className="agenda-pdf-section agenda-day">
+          <h5>View As PDF:</h5>
+          <p><a class='external-link' href={AgendaPdf} target='_blank' rel="noreferrer">Click here to view or download the comprehensive agenda as a PDF</a></p>
+        </div>
 
 
         <div className="agenda-day">
