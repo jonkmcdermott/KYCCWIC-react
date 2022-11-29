@@ -170,8 +170,8 @@ function BreakoutSessions() {
         {DisplaySpeakerCard(
           'tamela_smith',
           'Dr. Tamela W. Smith',
-          'Dr. Smith is a Staff Emeritus from WKU, having retired in 2018 from her position as Manager of Audiovisual Services in IT.  She holds a Master\'s degree in Communication and a Doctorate in Educational Leadership, with an emphasis in Organizational Leadership. She has taught in the areas of Communication and Organizational Leadership, both Undergraduate and Graduate level, for WKU. \n With over 16 years\' experience in the field of video conferencing, her research areas focused on improving communications in computer-mediated environments.  She has presented on video conferencing communications at various national and international conferences.  Dr. Smith served two terms on WKU\'s Board of Regents as the elected Staff Regent, and served a 3-year term on the WKU Alumni Association National Board of Directors, including one year on the Executive Committee. Since retirement she has shifted her research focus and is currently completing her first book.',
-          false
+          'Dr. Tamela W. Smith, WKU Staff Emeritus, retired in 2018 from her position as Manager of Audiovisual Services in IT. She holds a Master\'s degree in Communication and a Doctorate in Educational Leadership, with an emphasis in Organizational Leadership. She has taught at WKU in the areas of Communication and Organizational Leadership, at the Undergraduate and Graduate levels.  With over 16 years\' experience in the field of video conferencing, her research areas focused on improving communications in computer-mediated environments. She has presented on video conferencing communications nationally and internationally. Dr. Smith served two terms on WKU\'s Board of Regents as the elected Staff Regent and served a 3-year term on the WKU Alumni Association National Board of Directors, including one year on the Executive Committee. Since retirement she has shifted her research focus and is currently completing her first book.',
+          true
         )}
 
         {DisplaySpeakerCard(
