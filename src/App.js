@@ -15,6 +15,7 @@ import BreakoutSessions from './components/BreakoutSessions';
 import EmploymentPanel from './components/EmploymentPanel';
 import Keynote from './components/Keynote';
 import Testimonial from './components/Testimonial';
+import Career from './components/Career';
 
 
 
@@ -35,6 +36,7 @@ function App() {
       <Keynote />
       <BreakoutSessions />
       <EmploymentPanel />
+      <Career />
 
       <Register />
       <Footer />
