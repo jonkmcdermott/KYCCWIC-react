@@ -36,6 +36,15 @@
     },
 
     {
+        "id" : "lang",
+        "name" : "Lang Company",
+        "sponsor_level" : "Gold",
+        "sponsor_class" : "badge-gold",
+        "website" : "https://www.langcompany.com/",
+        "logo" : "./assets/Sponsors/Lang.png"
+    },
+
+    {
         "id" : "mcgrawhill",
         "name" : "McGraw Hill",
         "sponsor_level" : "Platinum",
