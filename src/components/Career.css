@@ -15,12 +15,12 @@
     max-width: 100vw;
     height: auto;
     justify-content: space-evenly;
-    padding: 2rem;
+    padding: 1rem;
 }
 
 .career-logo-container {
     width: 15vw;
-    margin: 2rem;
+    margin: 1rem;
 }
 
 .career-badge {
@@ -30,7 +30,8 @@
     place-content: center;
     box-shadow: var(--gentle-box-shadow);
     border-radius: 50%;
-    border: .75vw solid white;
+    border: .25vw solid var(--pathfinder-yellow);
+    background-color: white;
 }
 
 .badge-outline {
@@ -61,7 +62,7 @@
     .career-badge {
         height: 25vw;
         width: 25vw;
-        border: 1.5vw solid white;
+        border: 1.5vw solid var(--pathfinder-yellow);
         background-color: white;
         
     }
@@ -71,7 +72,7 @@
 @media screen and (min-width: 941px) {
 
     .career-badge {
-        outline: .35vw solid white;
+        outline: .35vw solid var(--pathfinder-yellow);
         outline-style: double;
         outline-offset: -1.25vw;
         transition: outline-offset 200ms ease;
