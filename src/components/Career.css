@@ -71,6 +71,7 @@
 @media screen and (min-width: 941px) {
 
     .career-badge {
+        outline: .35vw solid white;
         outline-style: double;
         outline-offset: -1.25vw;
         transition: outline-offset 200ms ease;
