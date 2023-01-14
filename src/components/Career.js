@@ -94,6 +94,13 @@ function Career() {
                 )}  
 
                 {DisplayCareerBadge(
+                    'IT365',
+                    'https://www.langcompany.com/managed-it-services/',
+                    true,
+                    './assets/CareerFair/it365.png'
+                )}  
+
+                {DisplayCareerBadge(
                     'Lang Company',
                     'https://www.langcompany.com/',
                     true,
