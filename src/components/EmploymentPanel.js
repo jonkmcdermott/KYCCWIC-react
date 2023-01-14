@@ -66,6 +66,13 @@ function EmploymentPanel() {
         )} 
 
         {DisplaySpeakerCard(
+          'carol_huff',
+          'Carol Huff',
+          'Carol Huff, PHR, is a graduate of Western Kentucky University with a degree in Business Administration with emphasis in Human Resources. She has over 20 years’ experience in Human Resources. She is currently Human Resource/Safety/Security Compliance Manager at the Owensboro Riverport Authority where she has been for over 12 years. Carol serves on the board of Owensboro Society of Human Resource Managers as Treasurer, Owensboro Spill Control Group as Treasurer, Chair of the Local Emergency Planning Committee and member of the United Way Community Investment Team. Carol resides in Owensboro with her husband Russell and has 2 sons Benjamin and Jacob.',
+          true
+        )} 
+
+        {DisplaySpeakerCard(
           'allie_lee',
           'Allie Lee',
           'Allie Lee is a Human Resources Administrator at Scotty\'s Contracting & Stone in Bowling Green, KY and has been in human resources for a year now. Allie earned her Bachelor of Science in Accounting from Western Kentucky University in 2017 and a Master of Business Administration from the University of Southern Indiana in 2021. She started her career at Scotty\'s as an intern in the accounting department while attending WKU and eventually went full-time with Scotty\'s in their Accounts Receivable Department. She loves her new job in Human Resources and has enjoyed learning a new side to the business. In her spare time you will catch her either chasing after her daughter or doing yoga at Flō House Yoga.',
@@ -75,7 +82,7 @@ function EmploymentPanel() {
         {DisplaySpeakerCard(
           'jessica_nations',
           'Jessica Nations',
-          'Jessica Nations is a Southern Indiana native who moved to Kentucky in pursuit of a degree in Corporate and Organizational Communication & Business Administration. After completing her Bachelor\'s degree from Western Kentucky University, Jessica worked as a human resources generalist before specializing in talent acquisition and recruiting. After more than 10 years in the industry, Jessica now leads Talent Acquisition for growing after-market automotive manufacturer, Holley Performance Products, Inc. Jessica serves on the Southern Kentucky Society of Human Resource Management (SKY-SHRM) board of directors and is passionate about collaborating with industry professionals to bring top diverse talent to the South-Central Kentucky region. Jessica lives in Bowling Green, KY with her husband, Ross and two sons, Ryder and Beckett. Together they enjoy bike riding, camping and spending time at Barren River Lake.',
+          'Jessica Nations is a Southern Indiana native who moved to Kentucky in pursuit of a degree in Corporate and Organizational Communication & Business Administration. After completing her Bachelor\'s degree from Western Kentucky University, Jessica worked as a human resources generalist before specializing in talent acquisition and recruiting. Jessica currently serves as a Regional Recruiter for Bendix Commercial Vehicle Systems in Bowling Green, KY and has previously lead recruiting for Fruit of the Loom, Inc. and Holley Performance Products. Jessica is an active member of Southern Kentucky Society of Human Resource Management (SKY-SHRM) and is passionate about collaborating with industry professionals to bring top diverse talent to the South-Central Kentucky region. Jessica lives in Bowling Green, KY with her husband, Ross and two sons, Ryder and Beckett. Together they enjoy bike riding, camping and spending time at Barren River Lake.',
           true
         )} 
 
