@@ -54,6 +54,15 @@
     },
 
     {
+        "id" : "msu",
+        "name" : "Murray State University",
+        "sponsor_level" : "Gold",
+        "sponsor_class" : "badge-gold",
+        "website" : "https://www.murraystate.edu/index.aspx",
+        "logo" : "./assets/Sponsors/MurrayState.png"
+    },
+
+    {
         "id" : "rehab",
         "name" : "RehabBoost",
         "sponsor_level" : "Keynote",
