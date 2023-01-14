@@ -35,7 +35,7 @@ function Footer() {
             <p className="sub-title">Social Media</p>
             <div className="footer-social-icon-div">
                 <a className="footer-social-icon" href="https://www.facebook.com/groups/1162883927542419" target='_blank' rel="noreferrer"><FaFacebook/></a>
-                <a className="footer-social-icon" href="https://twitter.com/KyccIn" target='_blank' rel="noreferrer"><FaTwitter/></a>
+                <a className="footer-social-icon" href=" https://twitter.com/kyccwic23" target='_blank' rel="noreferrer"><FaTwitter/></a>
             </div>
             
         </div>
