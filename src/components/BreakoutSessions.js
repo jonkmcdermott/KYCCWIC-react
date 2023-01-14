@@ -90,6 +90,13 @@ function BreakoutSessions() {
         )}
 
         {DisplaySpeakerCard(
+          'elizabeth_garrett',
+          'Elizabeth Garrett',
+          'Elizabeth Garrett is a 1997 University of Georgia graduate with a Bachelors in Business Administration with a concentration in Risk Management & Insurance.  After a long career in Dallas, Atlanta, and Nashville, Elizabeth and her husband moved to Bowling Green KY where her husband was raised.  Elizabeth works remotely with FCCI Insurance Group which has its headquarters in Sarasota FL.  Elizabeth works with clients in the state of Tennessee and has successfully worked from home for 3+ years.  She is a leader in her region in relationship building, teammate training, and production…all while working from home. ',
+          true
+        )}
+
+        {DisplaySpeakerCard(
           'cindy_hines',
           'Cindy Hines, SHRM-SCP, SPHR, MBA',
           'Cindy Hines is co-owner and COO of C & S Business Group and the Vice President of Talent Development at Leadership Strategies Group. Her extensive experience as a Human Resources and Organizational Development leader includes the fast-moving consumer goods industry, banking, manufacturing and healthcare. She has domestic multi-state and international experience focused on shaping the HR agenda that supports key organizational goals.  She has experience collaborating with manufacturing facilities as well as corporate locations. \n Cindy has overseen the talent acquisition and talent management strategies as well as several corporate and sales department restructurings and Mergers and Acquisitions.  She has led assessment centers across the US that resulted in quality hires and increased retention through selectively hiring and implementing an onboarding process that doesn\'t stop after 90 days.  Her experience includes culminating HQ offices while executing layoffs and location wind down, while keeping respect and concern for the employees as her primary driver. \n She has an MBA from Western Kentucky University and is an adjunct faculty member in the Management Department.  Cindy has authored a chapter in the professional book “What\'s Next in Human Resources” and is also published in “Cultivating Culture”. \n Cindy\'s primary focus is workplace investigations, recruiting hard-to-fill positions, employee surveys, HR compliance including Affirmative Action Plans, and M&A\'s.   Cindy\'s passion is helping people and organizations to reach their fullest potential. She particularly likes to connect top talent to premier companies.',
