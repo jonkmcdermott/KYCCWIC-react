@@ -25,8 +25,14 @@
 
     {
         "id" : "breakout_3",
-        "event_time" : "11:00 11:45 AM",
+        "event_time" : "11:00 - 11:45 AM",
         "event_title" : "Breakout Sessions, Career Fair"
+    },
+
+    {
+        "id" : "headshots",
+        "event_time" : "11:00 AM - 1:00 PM",
+        "event_title" : "Professional Headshots, Room 159"
     },
 
     {
