@@ -1,5 +1,14 @@
 [
     {
+        "id" : "bracc",
+        "name" : "BRACC",
+        "sponsor_level" : "silver",
+        "sponsor_class" : "badge-silver",
+        "website" : "https://www.aapc.com/localchapters/local-chapter-info.aspx?id=01008057&cname=Barren%20River%20Kentucky",
+        "logo" : "./assets/Sponsors/BRACC.png"
+    },
+
+    {
         "id" : "cengage",
         "name" : "Cengage",
         "sponsor_level" : "Gold",
@@ -58,7 +67,7 @@
         "name" : "Murray State University",
         "sponsor_level" : "Gold",
         "sponsor_class" : "badge-gold",
-        "website" : "https://www.murraystate.edu/index.aspx",
+        "website" : "https://www.murraystate.edu/academics/CollegesDepartments/CollegeOfScienceEngineeringandTechnology/CollegeOfSciencePrograms/instituteOfEngineering/ccit/index.aspx",
         "logo" : "./assets/Sponsors/MurrayState.png"
     },
 
