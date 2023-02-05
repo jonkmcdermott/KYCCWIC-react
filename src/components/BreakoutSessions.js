@@ -149,7 +149,7 @@ function BreakoutSessions() {
         {DisplaySpeakerCard(
           'lois_mcwhorter',
           'Lois McWhorter',
-          'I have been an educator, administrator, and entrepreneur in education for several years. I currently serve as the Chair of Education at the University of the Cumberlands - Hutton School of Business, where I continue to support undergraduate and graduate students. My areas of particular interest include Teaching and professional learning, career and professional development (both online and face-to-face), diversity and inclusion, international education, and community outreach. In addition to my academic and professional life, I am passionate about public service. Serving on the Board of Directors for various community and community-based organizations is a high priority.',
+          'I have been an educator, administrator, and entrepreneur in education for several years. I currently serve as the Chair of Business at the University of the Cumberlands - Hutton School of Business, where I continue to support undergraduate and graduate students. My areas of particular interest include Teaching and professional learning, career and professional development (both online and face-to-face), diversity and inclusion, international education, and community outreach. In addition to my academic and professional life, I am passionate about public service. Serving on the Board of Directors for various community and community-based organizations is a high priority.',
           true
         )}     
         
