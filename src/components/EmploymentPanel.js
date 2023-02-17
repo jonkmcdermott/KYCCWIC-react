@@ -68,14 +68,14 @@ function EmploymentPanel() {
         {DisplaySpeakerCard(
           'carol_huff',
           'Carol Huff',
-          'Carol Huff, PHR, is a graduate of Western Kentucky University with a degree in Business Administration with emphasis in Human Resources. She has over 20 years’ experience in Human Resources. She is currently Human Resource/Safety/Security Compliance Manager at the Owensboro Riverport Authority where she has been for over 12 years. Carol serves on the board of Owensboro Society of Human Resource Managers as Treasurer, Owensboro Spill Control Group as Treasurer, Chair of the Local Emergency Planning Committee and member of the United Way Community Investment Team. Carol resides in Owensboro with her husband Russell and has 2 sons Benjamin and Jacob.',
+          'Carol Huff, PHR, is a graduate of Western Kentucky University with a degree in Business Administration with emphasis in Human Resources. She has over 20 years\' experience in Human Resources. She is currently Human Resource/Safety/Security Compliance Manager at the Owensboro Riverport Authority where she has been for over 12 years. Carol serves on the board of Owensboro Society of Human Resource Managers as Treasurer, Owensboro Spill Control Group as Treasurer, Chair of the Local Emergency Planning Committee and member of the United Way Community Investment Team. Carol resides in Owensboro with her husband Russell and has 2 sons Benjamin and Jacob.',
           true
         )} 
 
         {DisplaySpeakerCard(
           'allie_lee',
           'Allie Lee',
-          'Allie Lee is a Human Resources Administrator at Scotty\'s Contracting & Stone in Bowling Green, KY and has been in human resources for a year now. Allie earned her Bachelor of Science in Accounting from Western Kentucky University in 2017 and a Master of Business Administration from the University of Southern Indiana in 2021. She started her career at Scotty\'s as an intern in the accounting department while attending WKU and eventually went full-time with Scotty\'s in their Accounts Receivable Department. She loves her new job in Human Resources and has enjoyed learning a new side to the business. In her spare time you will catch her either chasing after her daughter or doing yoga at Flō House Yoga.',
+          'Allie Lee is an Accountant at Final Finish located in Morgantown and Bowling Green, KY. While she spent a little over a year in Human Resources at Scotty\'s Contracting & Stone, she is excited to be back in the field of Accounting. Allie earned her Bachelor of Science in Accounting from Western Kentucky University in 2017 and a Master of Business Administration from the University of Southern Indiana in 2021. She started her Accounting career at Scotty\'s as an intern in their accounting department while attending WKU. In her spare time, you will catch her either chasing after her daughter or doing yoga at SOKY Marketplace.',
           true
         )} 
 
