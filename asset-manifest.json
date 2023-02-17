@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.5d30eadb.css",
-    "main.js": "/static/js/main.e02f0e5e.js",
+    "main.js": "/static/js/main.eee874eb.js",
     "static/js/787.b062fc82.chunk.js": "/static/js/787.b062fc82.chunk.js",
-    "static/media/WIC2023Program.pdf": "/static/media/WIC2023Program.6bdc6dc963394414d2ed.pdf",
+    "static/media/WIC2023Program.pdf": "/static/media/WIC2023Program.50a0fc1c3e9f5fe42519.pdf",
     "static/media/sumitomo.png": "/static/media/sumitomo.805ab92261f2fbe26750.png",
     "static/media/corvette-museum-white.jpg": "/static/media/corvette-museum-white.a924a14b4379090414ee.jpg",
     "static/media/marge-laptop-sunny.jpg": "/static/media/marge-laptop-sunny.3989de03c470fbf229be.jpg",
@@ -79,11 +79,11 @@
     "static/media/logo.svg": "/static/media/logo.b3f0bcaf81510ffb49d3.svg",
     "index.html": "/index.html",
     "main.5d30eadb.css.map": "/static/css/main.5d30eadb.css.map",
-    "main.e02f0e5e.js.map": "/static/js/main.e02f0e5e.js.map",
+    "main.eee874eb.js.map": "/static/js/main.eee874eb.js.map",
     "787.b062fc82.chunk.js.map": "/static/js/787.b062fc82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d30eadb.css",
-    "static/js/main.e02f0e5e.js"
+    "static/js/main.eee874eb.js"
   ]
 }
