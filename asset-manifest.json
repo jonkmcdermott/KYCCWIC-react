@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.5d30eadb.css",
-    "main.js": "/static/js/main.5fff174d.js",
+    "main.js": "/static/js/main.e02f0e5e.js",
     "static/js/787.b062fc82.chunk.js": "/static/js/787.b062fc82.chunk.js",
-    "static/media/WIC2023Program.pdf": "/static/media/WIC2023Program.ddc13675d3336f08e4fb.pdf",
+    "static/media/WIC2023Program.pdf": "/static/media/WIC2023Program.6bdc6dc963394414d2ed.pdf",
     "static/media/sumitomo.png": "/static/media/sumitomo.805ab92261f2fbe26750.png",
     "static/media/corvette-museum-white.jpg": "/static/media/corvette-museum-white.a924a14b4379090414ee.jpg",
     "static/media/marge-laptop-sunny.jpg": "/static/media/marge-laptop-sunny.3989de03c470fbf229be.jpg",
@@ -31,7 +31,6 @@
     "static/media/sebastian_leguizamon.jpg": "/static/media/sebastian_leguizamon.3bc4ca8af1589ef96f54.jpg",
     "static/media/julie_dent.jpg": "/static/media/julie_dent.0f65189c40aba23d980f.jpg",
     "static/media/lois_mcwhorter.jpg": "/static/media/lois_mcwhorter.79142f1c00aedec32ab7.jpg",
-    "static/media/allie_lee.jpg": "/static/media/allie_lee.692e6f6f72b9e4e2b5e9.jpg",
     "static/media/selena_house.jpg": "/static/media/selena_house.e2274528b1a84f1d1cdf.jpg",
     "static/media/medcenter.jpg": "/static/media/medcenter.1046f343406fabc811f3.jpg",
     "static/media/kim_otto.jpg": "/static/media/kim_otto.8fb5c1cd394b4e38a7fa.jpg",
@@ -44,6 +43,7 @@
     "static/media/WKU.png": "/static/media/WKU.f1f5457719ee56753260.png",
     "static/media/andy_mills.jpg": "/static/media/andy_mills.f519fe131b533c39b5bc.jpg",
     "static/media/elizabeth_garrett.jpg": "/static/media/elizabeth_garrett.ec74e85425a8089ba509.jpg",
+    "static/media/allie_lee.jpg": "/static/media/allie_lee.545b3a12d81248aaae17.jpg",
     "static/media/cindy_hines.jpg": "/static/media/cindy_hines.9c18fc6373149210f1c2.jpg",
     "static/media/coni_waggoner.jpg": "/static/media/coni_waggoner.877a9c8572a9455377f3.jpg",
     "static/media/placeholder.jpg": "/static/media/placeholder.3bc0aa71e0965c97f7b5.jpg",
@@ -79,11 +79,11 @@
     "static/media/logo.svg": "/static/media/logo.b3f0bcaf81510ffb49d3.svg",
     "index.html": "/index.html",
     "main.5d30eadb.css.map": "/static/css/main.5d30eadb.css.map",
-    "main.5fff174d.js.map": "/static/js/main.5fff174d.js.map",
+    "main.e02f0e5e.js.map": "/static/js/main.e02f0e5e.js.map",
     "787.b062fc82.chunk.js.map": "/static/js/787.b062fc82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d30eadb.css",
-    "static/js/main.5fff174d.js"
+    "static/js/main.e02f0e5e.js"
   ]
 }
