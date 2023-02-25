@@ -1,5 +1,14 @@
 [
     {
+        "id" : "att",
+        "name" : "AT&T",
+        "sponsor_level" : "platinum",
+        "sponsor_class" : "badge-platinum",
+        "website" : "https://www.att.com/",
+        "logo" : "./assets/Sponsors/ATT.png"
+    },
+
+    {
         "id" : "bracc",
         "name" : "BRACC",
         "sponsor_level" : "silver",
