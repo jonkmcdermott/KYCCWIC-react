@@ -1,4 +1,5 @@
-import React from 'react';
+// import React from 'react';
+import React, {useState, useEffect} from 'react';
 import './App.css';
 
 //Importing Components
@@ -16,10 +17,27 @@ import EmploymentPanel from './components/EmploymentPanel';
 import Keynote from './components/Keynote';
 import Testimonial from './components/Testimonial';
 import Career from './components/Career';
+import RegClosed from './components/RegClosed';
 
 
 
 function App() {
+
+  //Show registration closed section after reg closed date
+  const [closeRegistration, setCloseRegistration] = useState(false);
+  useEffect(() => {
+    //Change on March 2nd 20023 at 8:00 AM CST
+    const closeDate = new Date("2023-03-02T08:00:00-06:00");
+    const todayDate = new Date();
+    const close = todayDate >= closeDate;
+    setCloseRegistration(close);
+  }, []);
+
+  const registrationSection = closeRegistration ? (
+    <RegClosed />
+  ) : (
+    <Register />
+  );
 
   return (
     <div className="App">
@@ -38,7 +56,8 @@ function App() {
       <EmploymentPanel />
       <Career />
 
-      <Register />
+      {/* <Register /> */}
+      {registrationSection}
       <Footer />
     </div>
   );

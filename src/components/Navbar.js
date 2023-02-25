@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import React, {useState, useEffect} from 'react'
 import {FaBars, FaTimes} from 'react-icons/fa'
 import logo from './assets/logo.png'
 import acmlogo from './assets/acm-w-transparent-small.png'
@@ -19,7 +19,32 @@ const Navbar = () => {
       setNavColor(false)
     }
   }
-  window.addEventListener('scroll', changeNavColor)
+  //window.addEventListener('scroll', changeNavColor)
+  useEffect(() => {
+    window.addEventListener('scroll', changeNavColor);
+    return () => window.removeEventListener('scroll', changeNavColor);
+  }, []);
+
+
+  //Redirect registration button after registration closes
+  const [disableRegistration, setDisableRegistration] = useState(false);
+  useEffect(() => {
+    //Change on March 2nd 20023 at 8:00 AM CST
+    const targetDate = new Date("2023-03-02T08:00:00-06:00");
+    const now = new Date();
+    const disable = now >= targetDate;
+    setDisableRegistration(disable);
+  }, []);
+
+  const registerButton = disableRegistration ? (
+    <li className="nav-item">
+      <a className='nav-button' href="#regclosed">Register</a>
+    </li>
+  ) : (
+    <li className="nav-item">
+      <a className='nav-button' href='https://www.surveymonkey.com/r/THWXYC8' target='_blank' rel="noreferrer">Register</a>
+    </li>
+  );
 
   return (
     <div className={navColor ? "header header-bg" : "header"}>
@@ -53,7 +78,8 @@ const Navbar = () => {
           <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="#agenda">Agenda</a></li>
           <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="#keynote">Speakers</a></li>
           <li onClick={handleNavClick} className="nav-item"><a className='nav-link' href="#careerfair">Career Fair</a></li>
-          <li onClick={handleNavClick} className="nav-item"><a className='nav-button' href='https://www.surveymonkey.com/r/THWXYC8' target='_blank' rel="noreferrer">Register</a></li>
+          {/* <li onClick={handleNavClick} className="nav-item"><a className='nav-button' href='https://www.surveymonkey.com/r/THWXYC8' target='_blank' rel="noreferrer">Register</a></li> */}
+          {registerButton}
         </ul>
       </nav>
     </div>
