@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5d30eadb.css",
-    "main.js": "/static/js/main.438b9957.js",
+    "main.js": "/static/js/main.85c391e8.js",
     "static/js/787.b062fc82.chunk.js": "/static/js/787.b062fc82.chunk.js",
     "static/media/WIC2023Program.pdf": "/static/media/WIC2023Program.50a0fc1c3e9f5fe42519.pdf",
     "static/media/sumitomo.png": "/static/media/sumitomo.805ab92261f2fbe26750.png",
@@ -51,6 +51,7 @@
     "static/media/amy_norrod.jpg": "/static/media/amy_norrod.47143f95202df6eae2e1.jpg",
     "static/media/stephanie_thacker.jpg": "/static/media/stephanie_thacker.9479c801576fbce78eca.jpg",
     "static/media/Coretech.png": "/static/media/Coretech.c51cf2560071846c28f0.png",
+    "static/media/ATT.png": "/static/media/ATT.d8f7b4d63d895c2bd077.png",
     "static/media/rick_nord.jpg": "/static/media/rick_nord.61d6bdf4262b0cd1035f.jpg",
     "static/media/mark_leonhardt.jpg": "/static/media/mark_leonhardt.d48cb3a4c461dd0611ff.jpg",
     "static/media/leslie_benningfield.jpg": "/static/media/leslie_benningfield.657e830074948f9a19b4.jpg",
@@ -79,11 +80,11 @@
     "static/media/logo.svg": "/static/media/logo.b3f0bcaf81510ffb49d3.svg",
     "index.html": "/index.html",
     "main.5d30eadb.css.map": "/static/css/main.5d30eadb.css.map",
-    "main.438b9957.js.map": "/static/js/main.438b9957.js.map",
+    "main.85c391e8.js.map": "/static/js/main.85c391e8.js.map",
     "787.b062fc82.chunk.js.map": "/static/js/787.b062fc82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d30eadb.css",
-    "static/js/main.438b9957.js"
+    "static/js/main.85c391e8.js"
   ]
 }
