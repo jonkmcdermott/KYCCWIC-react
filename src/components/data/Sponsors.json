@@ -2,7 +2,7 @@
     {
         "id" : "att",
         "name" : "AT&T",
-        "sponsor_level" : "platinum",
+        "sponsor_level" : "Platinum",
         "sponsor_class" : "badge-platinum",
         "website" : "https://www.att.com/",
         "logo" : "./assets/Sponsors/ATT.png"
@@ -11,7 +11,7 @@
     {
         "id" : "bracc",
         "name" : "BRACC",
-        "sponsor_level" : "silver",
+        "sponsor_level" : "Silver",
         "sponsor_class" : "badge-silver",
         "website" : "https://www.aapc.com/localchapters/local-chapter-info.aspx?id=01008057&cname=Barren%20River%20Kentucky",
         "logo" : "./assets/Sponsors/BRACC.png"
@@ -47,7 +47,7 @@
     {
         "id" : "franklinbank",
         "name" : "Franklin Bank & Trust",
-        "sponsor_level" : "silver",
+        "sponsor_level" : "Silver",
         "sponsor_class" : "badge-silver",
         "website" : "https://www.fbtco.com/",
         "logo" : "./assets/Sponsors/Franklin.png"
