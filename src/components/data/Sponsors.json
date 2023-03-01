@@ -45,6 +45,15 @@
     },
 
     {
+        "id" : "franklinbank",
+        "name" : "Franklin Bank & Trust",
+        "sponsor_level" : "silver",
+        "sponsor_class" : "badge-silver",
+        "website" : "https://www.fbtco.com/",
+        "logo" : "./assets/Sponsors/Franklin.png"
+    },
+
+    {
         "id" : "german",
         "name" : "German American Bank",
         "sponsor_level" : "Keynote",
