@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.5d30eadb.css",
-    "main.js": "/static/js/main.de33bc3b.js",
+    "main.js": "/static/js/main.3a17618e.js",
     "static/js/787.b062fc82.chunk.js": "/static/js/787.b062fc82.chunk.js",
-    "static/media/WIC2023Program.pdf": "/static/media/WIC2023Program.c5223a95f2004fa92eef.pdf",
+    "static/media/WIC2023Program.pdf": "/static/media/WIC2023Program.89b355913c821a98dd9b.pdf",
     "static/media/sumitomo.png": "/static/media/sumitomo.805ab92261f2fbe26750.png",
     "static/media/corvette-museum-white.jpg": "/static/media/corvette-museum-white.a924a14b4379090414ee.jpg",
     "static/media/marge-laptop-sunny.jpg": "/static/media/marge-laptop-sunny.3989de03c470fbf229be.jpg",
@@ -37,6 +37,7 @@
     "static/media/monica_wardlow.jpg": "/static/media/monica_wardlow.e64010855c7cf3ff0a6a.jpg",
     "static/media/tammy_inscoe.jpg": "/static/media/tammy_inscoe.fd6f692a0bf6483c855d.jpg",
     "static/media/jessica_nations.jpg": "/static/media/jessica_nations.692d3f753cd8d7be5912.jpg",
+    "static/media/jennifer_taylor.jpg": "/static/media/jennifer_taylor.67046d39ead56de76104.jpg",
     "static/media/renee_white.jpg": "/static/media/renee_white.e023c9638b64c1b265f5.jpg",
     "static/media/Cengage.png": "/static/media/Cengage.d31e0653bdb531a15bda.png",
     "static/media/GermanAmerican.jpg": "/static/media/GermanAmerican.5585cf993f5c2c43ddff.jpg",
@@ -73,18 +74,17 @@
     "static/media/shannon_houser.jpg": "/static/media/shannon_houser.4bfa454b385a15c859c4.jpg",
     "static/media/BRACC.png": "/static/media/BRACC.3e10c8adcb9af9232409.png",
     "static/media/skyctc-logo-transparent.png": "/static/media/skyctc-logo-transparent.c524d2c9ea7c1bdb7286.png",
-    "static/media/jennifer_taylor.jpg": "/static/media/jennifer_taylor.f190f90e7f9443ba3ab2.jpg",
     "static/media/dollargeneral.png": "/static/media/dollargeneral.fc119e3f580623893c97.png",
     "static/media/skyctc.svg": "/static/media/skyctc.aa0c0f0ddea0a023b2d7.svg",
     "static/media/RehabBoost.png": "/static/media/RehabBoost.7797cef3fa3fb57de5df.png",
     "static/media/logo.svg": "/static/media/logo.b3f0bcaf81510ffb49d3.svg",
     "index.html": "/index.html",
     "main.5d30eadb.css.map": "/static/css/main.5d30eadb.css.map",
-    "main.de33bc3b.js.map": "/static/js/main.de33bc3b.js.map",
+    "main.3a17618e.js.map": "/static/js/main.3a17618e.js.map",
     "787.b062fc82.chunk.js.map": "/static/js/787.b062fc82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d30eadb.css",
-    "static/js/main.de33bc3b.js"
+    "static/js/main.3a17618e.js"
   ]
 }
